@@ -1,0 +1,354 @@
+[
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\.git\\COMMIT_EDITMSG",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\.git\\FETCH_HEAD",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\.git\\HEAD",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\.git\\config",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\.git\\description",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\.git\\hooks\\applypatch-msg.sample",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\.git\\hooks\\commit-msg.sample",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\.git\\hooks\\fsmonitor-watchman.sample",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\.git\\hooks\\post-update.sample",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\.git\\hooks\\pre-applypatch.sample",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\.git\\hooks\\pre-commit.sample",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\.git\\hooks\\pre-merge-commit.sample",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\.git\\hooks\\pre-push.sample",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\.git\\hooks\\pre-rebase.sample",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\.git\\hooks\\pre-receive.sample",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\.git\\hooks\\prepare-commit-msg.sample",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\.git\\hooks\\push-to-checkout.sample",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\.git\\hooks\\update.sample",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\.git\\index",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\.git\\info\\exclude",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\.git\\logs\\HEAD",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\.git\\logs\\refs\\heads\\main",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\.git\\logs\\refs\\remotes\\origin\\HEAD",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\.git\\logs\\refs\\remotes\\origin\\main",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\.git\\objects\\4f\\1da2442ab4d8c6e56e65919d8d1cfac697bb8f",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\.git\\objects\\52\\838a397712e8323f542a015c80515177d2b4f1",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\.git\\objects\\90\\aad9e7e22f143662bdcb74de4ca59ffc4f7321",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\.git\\objects\\b3\\b5219989d33e4406465ad5e517a6bfadd66994",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\.git\\objects\\bf\\18077be2631338b48713ca2aaf6dde78cb10b5",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\.git\\objects\\c6\\e7a41f4c9c0f88efe640e4c01f0b9632df253c",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\.git\\objects\\f2\\67e44994ebcf76ab93f8865910f9475a1ba598",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\.git\\objects\\pack\\pack-67aa2aefcbc7b7491d203023eb086b805a3187a3.idx",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\.git\\objects\\pack\\pack-67aa2aefcbc7b7491d203023eb086b805a3187a3.pack",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\.git\\packed-refs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\.git\\refs\\heads\\main",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\.git\\refs\\remotes\\origin\\HEAD",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\.git\\refs\\remotes\\origin\\main",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\.gitattributes",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\.gitignore",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\BasePawn.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\BasePawn.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\ToonTanks.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\ToonTanks.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\toon-tanks\\ToonTanks.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default\\toon-tanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	}
+]
