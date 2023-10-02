@@ -26,4 +26,7 @@ void ATank::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 void ATank::Move(float Value)
 {
     UE_LOG(LogTemp, Display, TEXT("Move(%f)"), Value);
+    FVector MoveOffset(0.0f, 0.0f, 0.0f);
+    MoveOffset.X = Value * 2;
+    AddActorLocalOffset(MoveOffset);
 }
