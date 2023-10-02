@@ -1,7 +1,6 @@
 /FI "Z:\toon-tanks\Toon Tanks\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks 5.2\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToonTanks\Definitions.ToonTanks.h" 
 /FI "Z:\toon-tanks\Toon Tanks\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks 5.2\Intermediate\Build\Win64\x64\ToonTanksEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h" 
 /I "Z:\UE_5.2\Engine\Source" 
-/I "Z:\toon-tanks\Toon Tanks\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks 5.2\Source\ToonTanks\Private" 
 /I "Z:\UE_5.2\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\UHT" 
 /I "Z:\UE_5.2\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\VNI" 
 /I "Z:\UE_5.2\Engine\Shaders\Shared" 

@@ -1672,3 +1672,55 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.02-19.30.32:041][904]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
 [2023.10.02-19.52.57:342][937]LogDerivedDataCache: C:/Users/andrewdlanham/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:33.302 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 17319 files in 20425 folders with total size 2850 MiB.
 [2023.10.02-19.56.15:796][533]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.10.02-20.15.02:728][492]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.02-20.15.02:770][492]LogSavePackage: Moving output files for package: /Game/Blueprints/Pawns/BP_PawnTank
+[2023.10.02-20.15.02:770][492]LogSavePackage: Moving '../../../../toon-tanks/Toon Tanks/ToonTanksProjectSetup_4.25/ToonTanksProjectSetup_4.25/ToonTanks 5.2/Saved/BP_PawnTank0333BAEC468B91124BC65182FE2DD916.tmp' to '../../../../toon-tanks/Toon Tanks/ToonTanksProjectSetup_4.25/ToonTanksProjectSetup_4.25/ToonTanks 5.2/Content/Blueprints/Pawns/BP_PawnTank.uasset'
+[2023.10.02-20.15.02:775][492]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 797 ms)
+[2023.10.02-20.15.02:844][492]AssetCheck: New page: Asset Save: BP_PawnTank
+[2023.10.02-20.15.02:844][492]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank
+[2023.10.02-20.15.04:296][549]BlueprintLog: New page: Compile BP_PawnTank
+[2023.10.02-20.15.04:457][549]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2023.10.02-20.15.07:375][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.10.02-20.15.07:389][749]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Main_Auto1
+[2023.10.02-20.15.07:389][749]LogSavePackage: Moving '../../../../toon-tanks/Toon Tanks/ToonTanksProjectSetup_4.25/ToonTanksProjectSetup_4.25/ToonTanks 5.2/Saved/Main_Auto1DA6EF2C441E1C58B521538BFEC8A4906.tmp' to '../../../../toon-tanks/Toon Tanks/ToonTanksProjectSetup_4.25/ToonTanksProjectSetup_4.25/ToonTanks 5.2/Saved/Autosaves/Game/Maps/Main_Auto1.umap'
+[2023.10.02-20.15.07:400][749]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.046
+[2023.10.02-20.15.07:400][749]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.046
+[2023.10.02-20.15.17:401][ 40]Running Z:/UE_5.2/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="Z:/toon-tanks/Toon Tanks/ToonTanksProjectSetup_4.25/ToonTanksProjectSetup_4.25/ToonTanks 5.2/ToonTanks.uproject" -game -rocket -progress
+[2023.10.02-20.15.17:505][ 40]Using bundled DotNet SDK version: 6.0.302
+[2023.10.02-20.15.17:505][ 40]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="Z:/toon-tanks/Toon Tanks/ToonTanksProjectSetup_4.25/ToonTanksProjectSetup_4.25/ToonTanks 5.2/ToonTanks.uproject" -game -rocket -progress
+[2023.10.02-20.15.17:807][ 40]Log file: C:\Users\andrewdlanham\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2023.10.02-20.15.18:210][ 40]
+[2023.10.02-20.15.18:210][ 40]Some Platforms were skipped due to invalid SDK setup: IOS, Android, Linux, LinuxArm64.
+[2023.10.02-20.15.18:210][ 40]See the log file for detailed information
+[2023.10.02-20.15.18:210][ 40]
+[2023.10.02-20.15.18:210][ 40]
+[2023.10.02-20.15.18:210][ 40]Generating VisualStudioCode project files:
+[2023.10.02-20.15.18:210][ 40]Discovering modules, targets and source code for project...
+[2023.10.02-20.15.19:416][ 40]Binding IntelliSense data...
+[2023.10.02-20.15.23:244][ 40]Binding IntelliSense data... 100%
+[2023.10.02-20.15.23:245][ 40]Writing project files...
+[2023.10.02-20.15.25:759][ 40]Writing project files... 100%
+[2023.10.02-20.25.25:477][971]LogHotReload: New module detected: UnrealEditor-ToonTanks-0006.dll
+[2023.10.02-20.25.26:481][975]LogHotReload: Starting Hot-Reload from IDE
+[2023.10.02-20.25.26:586][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.10.02-20.25.26:627][975]LogClass: UPackage /Script/ToonTanks Reload.
+[2023.10.02-20.25.26:627][975]LogClass: UClass Tank Reload.
+[2023.10.02-20.25.26:631][975]LogClass: Could not find existing class Tank in package /Script/ToonTanks for reload, assuming new or modified class
+[2023.10.02-20.25.26:651][975]Re-instancing Tank after reload.
+[2023.10.02-20.25.26:947][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.10.02-20.25.27:064][975]Display: HotReload took  0.6s.
+[2023.10.02-20.25.27:064][975]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed, 1 class unchanged
+[2023.10.02-20.25.59:530][664]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank from BasePawn to Tank...
+[2023.10.02-20.25.59:538][664]BlueprintLog: New page: Compile BP_PawnTank
+[2023.10.02-20.25.59:690][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.10.02-20.26.00:541][760]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.02-20.26.00:606][760]LogSavePackage: Moving output files for package: /Game/Blueprints/Pawns/BP_PawnTank
+[2023.10.02-20.26.00:606][760]LogSavePackage: Moving '../../../../toon-tanks/Toon Tanks/ToonTanksProjectSetup_4.25/ToonTanksProjectSetup_4.25/ToonTanks 5.2/Saved/BP_PawnTankC47ABA6641D83C05D5ECD28AABD7721C.tmp' to '../../../../toon-tanks/Toon Tanks/ToonTanksProjectSetup_4.25/ToonTanksProjectSetup_4.25/ToonTanks 5.2/Content/Blueprints/Pawns/BP_PawnTank.uasset'
+[2023.10.02-20.26.00:613][760]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 868 ms)
+[2023.10.02-20.26.00:620][760]AssetCheck: New page: Asset Save: BP_PawnTank
+[2023.10.02-20.26.00:620][760]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank
+[2023.10.02-20.26.34:192][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.10.02-20.26.34:205][125]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Main_Auto2
+[2023.10.02-20.26.34:205][125]LogSavePackage: Moving '../../../../toon-tanks/Toon Tanks/ToonTanksProjectSetup_4.25/ToonTanksProjectSetup_4.25/ToonTanks 5.2/Saved/Main_Auto23104DE2F4F703DC445486A90F5DF7E67.tmp' to '../../../../toon-tanks/Toon Tanks/ToonTanksProjectSetup_4.25/ToonTanksProjectSetup_4.25/ToonTanks 5.2/Saved/Autosaves/Game/Maps/Main_Auto2.umap'
+[2023.10.02-20.26.34:216][125]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.096
+[2023.10.02-20.26.34:216][125]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.096

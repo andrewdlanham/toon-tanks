@@ -38,7 +38,7 @@ public: \
 
 #define FID_toon_tanks_Toon_Tanks_ToonTanksProjectSetup_4_25_ToonTanksProjectSetup_4_25_ToonTanks_5_2_Source_ToonTanks_Tank_h_15_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
-	NO_API ATank(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	NO_API ATank(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ATank) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, ATank); \
 	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ATank); \
@@ -51,8 +51,6 @@ public: \
 
 
 #define FID_toon_tanks_Toon_Tanks_ToonTanksProjectSetup_4_25_ToonTanksProjectSetup_4_25_ToonTanks_5_2_Source_ToonTanks_Tank_h_15_ENHANCED_CONSTRUCTORS \
-	/** Standard constructor, called after all reflected properties have been initialized */ \
-	NO_API ATank(); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API ATank(ATank&&); \

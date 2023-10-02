@@ -9,7 +9,11 @@
             "z:\\toon-tanks\\toon tanks\\toontanksprojectsetup_4.25\\toontanksprojectsetup_4.25\\toontanks 5.2\\source\\toontanks\\tank.h",
             "z:\\toon-tanks\\toon tanks\\toontanksprojectsetup_4.25\\toontanksprojectsetup_4.25\\toontanks 5.2\\source\\toontanks\\basepawn.h",
             "z:\\toon-tanks\\toon tanks\\toontanksprojectsetup_4.25\\toontanksprojectsetup_4.25\\toontanks 5.2\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\basepawn.generated.h",
-            "z:\\toon-tanks\\toon tanks\\toontanksprojectsetup_4.25\\toontanksprojectsetup_4.25\\toontanks 5.2\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\tank.generated.h"
+            "z:\\toon-tanks\\toon tanks\\toontanksprojectsetup_4.25\\toontanksprojectsetup_4.25\\toontanks 5.2\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\uht\\tank.generated.h",
+            "z:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\springarmcomponent.h",
+            "z:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\springarmcomponent.generated.h",
+            "z:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
+            "z:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\cameracomponent.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

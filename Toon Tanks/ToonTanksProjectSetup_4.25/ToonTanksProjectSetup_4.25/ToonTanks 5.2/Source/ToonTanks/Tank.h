@@ -14,4 +14,16 @@ class ATank : public ABasePawn
 {
 	GENERATED_BODY()
 	
+private:
+
+	UPROPERTY(Category = "Components", VisibleAnywhere)
+	class USpringArmComponent* SpringArm;
+
+	UPROPERTY(Category = "Components", VisibleAnywhere)
+	class UCameraComponent* Camera;
+
+public:
+
+	ATank();
+
 };
