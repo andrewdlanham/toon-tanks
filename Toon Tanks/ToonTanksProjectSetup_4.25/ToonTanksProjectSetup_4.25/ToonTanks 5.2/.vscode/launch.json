@@ -4,7 +4,7 @@
 		{
 			"name": "Launch ToonTanks (Debug)",
 			"request": "launch",
-			"program": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+			"program": "Z:\\toon-tanks\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
 			"preLaunchTask": "ToonTanks Win64 Debug Build",
 			"args": [
 			],
@@ -20,7 +20,7 @@
 		{
 			"name": "Launch ToonTanks (DebugGame)",
 			"request": "launch",
-			"program": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+			"program": "Z:\\toon-tanks\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
 			"preLaunchTask": "ToonTanks Win64 DebugGame Build",
 			"args": [
 			],
@@ -36,7 +36,7 @@
 		{
 			"name": "Launch ToonTanks (Development)",
 			"request": "launch",
-			"program": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Binaries\\Win64\\UnrealGame.exe",
+			"program": "Z:\\toon-tanks\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Binaries\\Win64\\UnrealGame.exe",
 			"preLaunchTask": "ToonTanks Win64 Development Build",
 			"args": [
 			],
@@ -52,7 +52,7 @@
 		{
 			"name": "Launch ToonTanks (Test)",
 			"request": "launch",
-			"program": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+			"program": "Z:\\toon-tanks\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
 			"preLaunchTask": "ToonTanks Win64 Test Build",
 			"args": [
 			],
@@ -68,7 +68,7 @@
 		{
 			"name": "Launch ToonTanks (Shipping)",
 			"request": "launch",
-			"program": "Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+			"program": "Z:\\toon-tanks\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
 			"preLaunchTask": "ToonTanks Win64 Shipping Build",
 			"args": [
 			],
@@ -87,7 +87,7 @@
 			"program": "Z:\\UE_5.2\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
 			"preLaunchTask": "ToonTanksEditor Win64 Debug Build",
 			"args": [
-				"Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\ToonTanks.uproject"
+				"Z:\\toon-tanks\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\ToonTanks.uproject"
 			],
 			"cwd": "Z:\\UE_5.2",
 			"stopAtEntry": false,
@@ -104,7 +104,7 @@
 			"program": "Z:\\UE_5.2\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
 			"preLaunchTask": "ToonTanksEditor Win64 DebugGame Build",
 			"args": [
-				"Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\ToonTanks.uproject"
+				"Z:\\toon-tanks\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\ToonTanks.uproject"
 			],
 			"cwd": "Z:\\UE_5.2",
 			"stopAtEntry": false,
@@ -121,7 +121,7 @@
 			"program": "Z:\\UE_5.2\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
 			"preLaunchTask": "ToonTanksEditor Win64 Development Build",
 			"args": [
-				"Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\ToonTanks.uproject"
+				"Z:\\toon-tanks\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\ToonTanks.uproject"
 			],
 			"cwd": "Z:\\UE_5.2",
 			"stopAtEntry": false,
@@ -140,7 +140,7 @@
 			"args": [
 				"-projectfiles",
 				"-vscode",
-				"-project=Z:\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\ToonTanks.uproject",
+				"-project=Z:\\toon-tanks\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\ToonTanks.uproject",
 				"-game",
 				"-engine"
 			],

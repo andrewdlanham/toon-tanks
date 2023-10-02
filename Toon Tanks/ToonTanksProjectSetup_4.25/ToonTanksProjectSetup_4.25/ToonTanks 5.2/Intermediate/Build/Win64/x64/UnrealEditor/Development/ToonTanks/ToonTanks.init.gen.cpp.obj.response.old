@@ -1,5 +1,6 @@
-"Z:\Toon Tanks\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks 5.2\Intermediate\Build\Win64\UnrealEditor\Inc\ToonTanks\UHT\ToonTanks.init.gen.cpp"
+"Z:\toon-tanks\Toon Tanks\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks 5.2\Intermediate\Build\Win64\UnrealEditor\Inc\ToonTanks\UHT\ToonTanks.init.gen.cpp"
 /I .
+/I "Z:\toon-tanks\Toon Tanks\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks 5.2\Source\ToonTanks\Private"
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\UHT
 /I ..\Shaders\Shared
 /I Runtime\Engine\Classes
@@ -272,8 +273,8 @@
 /I Runtime\MovieSceneCapture\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController\UHT
 /I Developer\AnimationDataController\Public
-/I "Z:\Toon Tanks\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks 5.2\Intermediate\Build\Win64\UnrealEditor\Inc\ToonTanks\UHT"
-/I "Z:\Toon Tanks\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks 5.2\Source"
+/I "Z:\toon-tanks\Toon Tanks\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks 5.2\Intermediate\Build\Win64\UnrealEditor\Inc\ToonTanks\UHT"
+/I "Z:\toon-tanks\Toon Tanks\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks 5.2\Source"
 /external:W0
 /external:I ThirdParty\mimalloc\include
 /external:I ThirdParty\LibTiff\Source\Win64
@@ -283,12 +284,12 @@
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"Z:\Toon Tanks\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks 5.2\Intermediate\Build\Win64\x64\ToonTanksEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
-/FI"Z:\Toon Tanks\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks 5.2\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToonTanks\Definitions.ToonTanks.h"
-/Yu"Z:\Toon Tanks\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks 5.2\Intermediate\Build\Win64\x64\ToonTanksEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
-/Fp"Z:\Toon Tanks\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks 5.2\Intermediate\Build\Win64\x64\ToonTanksEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.pch"
-/Fo"Z:\Toon Tanks\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks 5.2\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToonTanks\ToonTanks.init.gen.cpp.obj"
-/sourceDependencies "Z:\Toon Tanks\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks 5.2\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToonTanks\ToonTanks.init.gen.cpp.dep.json"
+/FI"Z:\toon-tanks\Toon Tanks\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks 5.2\Intermediate\Build\Win64\x64\ToonTanksEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
+/FI"Z:\toon-tanks\Toon Tanks\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks 5.2\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToonTanks\Definitions.ToonTanks.h"
+/Yu"Z:\toon-tanks\Toon Tanks\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks 5.2\Intermediate\Build\Win64\x64\ToonTanksEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
+/Fp"Z:\toon-tanks\Toon Tanks\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks 5.2\Intermediate\Build\Win64\x64\ToonTanksEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.pch"
+/Fo"Z:\toon-tanks\Toon Tanks\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks 5.2\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToonTanks\ToonTanks.init.gen.cpp.obj"
+/sourceDependencies "Z:\toon-tanks\Toon Tanks\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks 5.2\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToonTanks\ToonTanks.init.gen.cpp.dep.json"
 /Zc:inline
 /nologo
 /Oi
