@@ -1724,3 +1724,2281 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.02-20.26.34:205][125]LogSavePackage: Moving '../../../../toon-tanks/Toon Tanks/ToonTanksProjectSetup_4.25/ToonTanksProjectSetup_4.25/ToonTanks 5.2/Saved/Main_Auto23104DE2F4F703DC445486A90F5DF7E67.tmp' to '../../../../toon-tanks/Toon Tanks/ToonTanksProjectSetup_4.25/ToonTanksProjectSetup_4.25/ToonTanks 5.2/Saved/Autosaves/Game/Maps/Main_Auto2.umap'
 [2023.10.02-20.26.34:216][125]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.096
 [2023.10.02-20.26.34:216][125]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.096
+[2023.10.02-20.29.37:060][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.29.37:060][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.29.37:060][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.29.37:061][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.29.37:095][858]LogViewport: Scene viewport resized to 470x284, mode Windowed.
+[2023.10.02-20.29.37:114][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.19:607][641]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.02-20.30.19:672][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.10.02-20.30.19:691][641]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2023.10.02-20.30.19:691][641]LogSavePackage: Moving '../../../../toon-tanks/Toon Tanks/ToonTanksProjectSetup_4.25/ToonTanksProjectSetup_4.25/ToonTanks 5.2/Saved/MainBA6F2A704F8454BEF09224894DF46CDD.tmp' to '../../../../toon-tanks/Toon Tanks/ToonTanksProjectSetup_4.25/ToonTanksProjectSetup_4.25/ToonTanks 5.2/Content/Maps/Main.umap'
+[2023.10.02-20.30.19:701][641]LogFileHelpers: No new changes to save!
+[2023.10.02-20.30.19:701][641]LogFileHelpers: Saving map 'Main' took 0.052
+[2023.10.02-20.30.19:706][641]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 967 ms)
+[2023.10.02-20.30.19:713][641]AssetCheck: New page: Asset Save: Main
+[2023.10.02-20.30.19:713][641]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Main.Main
+[2023.10.02-20.30.20:932][723]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.02-20.30.20:937][723]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.02-20.30.20:938][723]PIE: New page: PIE session: Main (Oct 2, 2023, 12:30:20 PM)
+[2023.10.02-20.30.20:938][723]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2023.10.02-20.30.20:942][723]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004188s)
+[2023.10.02-20.30.20:942][723]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.004262s)
+[2023.10.02-20.30.20:942][723]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.02-20.30.20:943][723]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.02-20.30.20:943][723]LogAIModule: Creating AISystem for world Main
+[2023.10.02-20.30.20:944][723]LogPlayLevel: PIE: World Init took: (0.001614s)
+[2023.10.02-20.30.20:966][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.10.02-20.30.20:967][723]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.10.02-20.30.20:967][723]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.02-20.30.20:967][723]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.02-20.30.20:967][723]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.02-20.30.20:967][723]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.02-20.30.20:967][723]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.02-20.30.20:967][723]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.02-20.30.20:967][723]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.02-20.30.20:967][723]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.02-20.30.20:967][723]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.02-20.30.20:967][723]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.02-20.30.20:967][723]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.02-20.30.20:970][723]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.02-20.30.21:018][723]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.10.02-20.30.21:018][723]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.02-20.30.21:018][723]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.02-20.30.21:018][723]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.02-20.30.21:020][723]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.10.02-20.30.21:020][723]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.10.02-20.30.21:021][723]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.10.02-20.30.21:021][723]LogInit: FAudioDevice initialized with ID 3.
+[2023.10.02-20.30.21:021][723]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.10.02-20.30.21:021][723]LogAudio: Display: Audio Device (ID: 3) registered with world 'Main'.
+[2023.10.02-20.30.21:021][723]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2023.10.02-20.30.21:029][723]LogLoad: Game class is 'GameModeBase'
+[2023.10.02-20.30.21:030][723]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.10.02-16.30.21
+[2023.10.02-20.30.21:030][723]LogWorld: Bringing up level for play took: 0.001736
+[2023.10.02-20.30.21:032][723]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2023.10.02-20.30.21:034][723]PIE: Server logged in
+[2023.10.02-20.30.21:034][723]PIE: Play in editor total start time 0.097 seconds.
+[2023.10.02-20.30.21:065][723]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.21:065][723]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.21:066][723]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.21:066][723]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.21:067][723]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.21:067][723]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.21:067][723]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.21:068][723]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.21:068][723]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.21:068][723]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.21:069][723]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.21:069][723]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.21:069][723]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.27:526][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.02-20.30.27:526][490]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2023.10.02-20.30.27:527][490]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.10.02-20.30.27:527][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.02-20.30.27:534][490]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.02-20.30.27:538][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.02-20.30.27:561][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.02-20.30.27:562][490]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2023.10.02-20.30.27:562][490]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.10.02-20.30.27:564][490]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.10.02-20.30.27:579][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.10.02-20.30.27:599][490]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.27:599][490]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.27:600][490]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.27:600][490]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.27:601][490]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.27:601][490]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.27:601][490]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.27:602][490]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.27:602][490]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.27:603][490]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.27:603][490]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.27:603][490]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.27:604][490]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.27:683][491]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.10.02-20.30.27:707][491]LogViewport: Scene viewport resized to 470x284, mode Windowed.
+[2023.10.02-20.30.40:520][500]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.02-20.30.40:574][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.10.02-20.30.40:587][500]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2023.10.02-20.30.40:587][500]LogSavePackage: Moving '../../../../toon-tanks/Toon Tanks/ToonTanksProjectSetup_4.25/ToonTanksProjectSetup_4.25/ToonTanks 5.2/Saved/Main066C274A4A0A3547B41AE18E036441DD.tmp' to '../../../../toon-tanks/Toon Tanks/ToonTanksProjectSetup_4.25/ToonTanksProjectSetup_4.25/ToonTanks 5.2/Content/Maps/Main.umap'
+[2023.10.02-20.30.40:595][500]LogFileHelpers: No new changes to save!
+[2023.10.02-20.30.40:595][500]LogFileHelpers: Saving map 'Main' took 0.045
+[2023.10.02-20.30.40:605][500]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 1.05 sec)
+[2023.10.02-20.30.40:611][500]AssetCheck: New page: Asset Save: Main
+[2023.10.02-20.30.40:611][500]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Main.Main
+[2023.10.02-20.30.41:698][609]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.02-20.30.41:706][609]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.02-20.30.41:706][609]PIE: New page: PIE session: Main (Oct 2, 2023, 12:30:41 PM)
+[2023.10.02-20.30.41:736][609]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2023.10.02-20.30.41:739][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003220s)
+[2023.10.02-20.30.41:739][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003256s)
+[2023.10.02-20.30.41:740][609]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.02-20.30.41:740][609]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.02-20.30.41:740][609]LogAIModule: Creating AISystem for world Main
+[2023.10.02-20.30.41:740][609]LogPlayLevel: PIE: World Init took: (0.000673s)
+[2023.10.02-20.30.41:762][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.10.02-20.30.41:762][609]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.10.02-20.30.41:762][609]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.02-20.30.41:762][609]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.02-20.30.41:762][609]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.02-20.30.41:762][609]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.02-20.30.41:762][609]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.02-20.30.41:762][609]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.02-20.30.41:762][609]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.02-20.30.41:762][609]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.02-20.30.41:763][609]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.02-20.30.41:763][609]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.02-20.30.41:763][609]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.02-20.30.41:765][609]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.02-20.30.41:810][609]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.10.02-20.30.41:810][609]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.02-20.30.41:810][609]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.02-20.30.41:810][609]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.02-20.30.41:810][609]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.10.02-20.30.41:811][609]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.10.02-20.30.41:813][609]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.10.02-20.30.41:813][609]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.10.02-20.30.41:813][609]LogInit: FAudioDevice initialized with ID 4.
+[2023.10.02-20.30.41:813][609]LogAudio: Display: Audio Device (ID: 4) registered with world 'Main'.
+[2023.10.02-20.30.41:813][609]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2023.10.02-20.30.41:816][609]LogLoad: Game class is 'GameModeBase'
+[2023.10.02-20.30.41:817][609]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.10.02-16.30.41
+[2023.10.02-20.30.41:817][609]LogWorld: Bringing up level for play took: 0.001327
+[2023.10.02-20.30.41:819][609]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2023.10.02-20.30.41:820][609]PIE: Server logged in
+[2023.10.02-20.30.41:821][609]PIE: Play in editor total start time 0.118 seconds.
+[2023.10.02-20.30.41:846][609]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.41:846][609]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.41:847][609]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.41:847][609]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.41:847][609]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.41:848][609]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.41:848][609]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.41:849][609]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.41:849][609]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.41:850][609]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.41:850][609]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.41:850][609]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.41:851][609]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.43:876][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.02-20.30.43:876][847]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2023.10.02-20.30.43:876][847]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.10.02-20.30.43:876][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.02-20.30.43:881][847]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.02-20.30.43:885][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.02-20.30.43:908][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.02-20.30.43:908][847]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2023.10.02-20.30.43:908][847]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.10.02-20.30.43:911][847]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.10.02-20.30.43:922][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.10.02-20.30.43:940][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.43:940][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.43:941][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.43:941][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.43:942][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.43:942][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.43:942][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.43:943][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.43:943][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.43:944][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.43:944][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.43:945][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.43:945][847]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.43:989][848]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.10.02-20.30.49:271][326]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.02-20.30.49:323][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.10.02-20.30.49:336][326]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2023.10.02-20.30.49:336][326]LogSavePackage: Moving '../../../../toon-tanks/Toon Tanks/ToonTanksProjectSetup_4.25/ToonTanksProjectSetup_4.25/ToonTanks 5.2/Saved/Main7FD9265D4C151F775156389E3FF7B12C.tmp' to '../../../../toon-tanks/Toon Tanks/ToonTanksProjectSetup_4.25/ToonTanksProjectSetup_4.25/ToonTanks 5.2/Content/Maps/Main.umap'
+[2023.10.02-20.30.49:345][326]LogFileHelpers: No new changes to save!
+[2023.10.02-20.30.49:345][326]LogFileHelpers: Saving map 'Main' took 0.044
+[2023.10.02-20.30.49:356][326]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 1.13 sec)
+[2023.10.02-20.30.49:362][326]AssetCheck: New page: Asset Save: Main
+[2023.10.02-20.30.49:362][326]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Main.Main
+[2023.10.02-20.30.50:199][396]LogViewport: Scene viewport resized to 470x284, mode Windowed.
+[2023.10.02-20.30.52:869][589]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.02-20.30.52:940][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.10.02-20.30.52:953][589]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2023.10.02-20.30.52:953][589]LogSavePackage: Moving '../../../../toon-tanks/Toon Tanks/ToonTanksProjectSetup_4.25/ToonTanksProjectSetup_4.25/ToonTanks 5.2/Saved/Main18CA94204C3B8CC0431809BD68581D5F.tmp' to '../../../../toon-tanks/Toon Tanks/ToonTanksProjectSetup_4.25/ToonTanksProjectSetup_4.25/ToonTanks 5.2/Content/Maps/Main.umap'
+[2023.10.02-20.30.52:962][589]LogFileHelpers: No new changes to save!
+[2023.10.02-20.30.52:962][589]LogFileHelpers: Saving map 'Main' took 0.045
+[2023.10.02-20.30.52:967][589]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 1.23 sec)
+[2023.10.02-20.30.52:972][589]AssetCheck: New page: Asset Save: Main
+[2023.10.02-20.30.52:972][589]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Main.Main
+[2023.10.02-20.30.53:856][646]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.02-20.30.53:861][646]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.02-20.30.53:861][646]PIE: New page: PIE session: Main (Oct 2, 2023, 12:30:53 PM)
+[2023.10.02-20.30.53:861][646]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2023.10.02-20.30.53:867][646]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005104s)
+[2023.10.02-20.30.53:867][646]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.005148s)
+[2023.10.02-20.30.53:867][646]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.02-20.30.53:867][646]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.02-20.30.53:867][646]LogAIModule: Creating AISystem for world Main
+[2023.10.02-20.30.53:868][646]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2023.10.02-20.30.53:891][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.10.02-20.30.53:892][646]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.10.02-20.30.53:892][646]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.02-20.30.53:892][646]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.02-20.30.53:892][646]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.02-20.30.53:892][646]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.02-20.30.53:892][646]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.02-20.30.53:892][646]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.02-20.30.53:892][646]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.02-20.30.53:892][646]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.02-20.30.53:893][646]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.02-20.30.53:893][646]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.02-20.30.53:893][646]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.02-20.30.53:895][646]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.02-20.30.53:944][646]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.10.02-20.30.53:944][646]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.02-20.30.53:944][646]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.02-20.30.53:944][646]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.02-20.30.53:946][646]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.10.02-20.30.53:946][646]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.10.02-20.30.53:950][646]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.10.02-20.30.53:950][646]LogInit: FAudioDevice initialized with ID 5.
+[2023.10.02-20.30.53:950][646]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.10.02-20.30.53:950][646]LogAudio: Display: Audio Device (ID: 5) registered with world 'Main'.
+[2023.10.02-20.30.53:950][646]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2023.10.02-20.30.53:952][646]LogLoad: Game class is 'GameModeBase'
+[2023.10.02-20.30.53:953][646]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.10.02-16.30.53
+[2023.10.02-20.30.53:953][646]LogWorld: Bringing up level for play took: 0.001260
+[2023.10.02-20.30.53:955][646]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2023.10.02-20.30.53:956][646]PIE: Server logged in
+[2023.10.02-20.30.53:957][646]PIE: Play in editor total start time 0.096 seconds.
+[2023.10.02-20.30.53:986][646]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.53:986][646]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.53:987][646]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.53:987][646]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.53:988][646]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.53:988][646]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.53:988][646]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.53:989][646]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.53:989][646]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.53:989][646]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.53:990][646]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.53:990][646]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.53:990][646]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.55:406][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.02-20.30.55:406][808]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2023.10.02-20.30.55:406][808]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.10.02-20.30.55:407][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.02-20.30.55:415][808]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.02-20.30.55:419][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.02-20.30.55:441][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.02-20.30.55:441][808]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2023.10.02-20.30.55:442][808]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.10.02-20.30.55:443][808]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.10.02-20.30.55:457][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.10.02-20.30.55:470][808]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.55:470][808]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.55:471][808]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.55:471][808]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.55:472][808]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.55:472][808]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.55:473][808]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.55:473][808]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.55:473][808]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.55:474][808]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.55:474][808]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.55:474][808]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.55:475][808]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.55:555][809]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.10.02-20.30.55:574][809]LogViewport: Scene viewport resized to 470x284, mode Windowed.
+[2023.10.02-20.30.58:350][ 45]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.58:350][ 45]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.58:351][ 45]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.30.58:352][ 45]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.31.27:058][956]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.31.27:058][956]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.31.27:059][956]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.31.27:127][957]LogViewport: Scene viewport resized to 470x284, mode Windowed.
+[2023.10.02-20.31.27:149][957]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.31.44:370][758]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.02-20.31.44:412][758]LogSavePackage: Moving output files for package: /Game/Blueprints/Pawns/BP_PawnTank
+[2023.10.02-20.31.44:413][758]LogSavePackage: Moving '../../../../toon-tanks/Toon Tanks/ToonTanksProjectSetup_4.25/ToonTanksProjectSetup_4.25/ToonTanks 5.2/Saved/BP_PawnTank679F27CF48A22A1F5CBC988103879BCD.tmp' to '../../../../toon-tanks/Toon Tanks/ToonTanksProjectSetup_4.25/ToonTanksProjectSetup_4.25/ToonTanks 5.2/Content/Blueprints/Pawns/BP_PawnTank.uasset'
+[2023.10.02-20.31.44:419][758]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 1.28 sec)
+[2023.10.02-20.31.44:426][758]AssetCheck: New page: Asset Save: BP_PawnTank
+[2023.10.02-20.31.44:426][758]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank
+[2023.10.02-20.31.50:328][948]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.31.50:328][948]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.31.50:329][948]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.31.50:329][948]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.31.50:603][980]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.02-20.31.50:677][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.10.02-20.31.50:691][980]LogSavePackage: Moving output files for package: /Game/Maps/Main
+[2023.10.02-20.31.50:691][980]LogSavePackage: Moving '../../../../toon-tanks/Toon Tanks/ToonTanksProjectSetup_4.25/ToonTanksProjectSetup_4.25/ToonTanks 5.2/Saved/MainF08312CF4E482EED2369E69A112C81F6.tmp' to '../../../../toon-tanks/Toon Tanks/ToonTanksProjectSetup_4.25/ToonTanksProjectSetup_4.25/ToonTanks 5.2/Content/Maps/Main.umap'
+[2023.10.02-20.31.50:699][980]LogFileHelpers: No new changes to save!
+[2023.10.02-20.31.50:699][980]LogFileHelpers: Saving map 'Main' took 0.045
+[2023.10.02-20.31.50:703][980]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 1.38 sec)
+[2023.10.02-20.31.50:709][980]AssetCheck: New page: Asset Save: Main
+[2023.10.02-20.31.50:709][980]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Main.Main
+[2023.10.02-20.31.53:754][332]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.31.53:754][332]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.31.53:754][332]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.31.53:809][333]LogViewport: Scene viewport resized to 470x284, mode Windowed.
+[2023.10.02-20.31.53:828][333]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.36.54:327][500]LogSlate: Window 'Project Settings' being destroyed
+[2023.10.02-20.36.54:331][500]LogSlate: Window 'Project Settings' being destroyed
+[2023.10.02-20.37.41:458][591]LogSlate: Window 'Project Settings' being destroyed
+[2023.10.02-20.45.28:803][492]LogHotReload: New module detected: UnrealEditor-ToonTanks-0007.dll
+[2023.10.02-20.45.30:142][497]LogHotReload: Starting Hot-Reload from IDE
+[2023.10.02-20.45.30:203][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.10.02-20.45.30:398][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.10.02-20.45.30:457][497]Display: HotReload took  0.3s.
+[2023.10.02-20.45.30:457][497]Display: Reload/Re-instancing Complete: 1 package changed, 2 classes unchanged
+[2023.10.02-20.45.39:053][762]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.02-20.45.39:058][762]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.02-20.45.39:058][762]PIE: New page: PIE session: Main (Oct 2, 2023, 12:45:39 PM)
+[2023.10.02-20.45.39:058][762]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2023.10.02-20.45.39:062][762]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003294s)
+[2023.10.02-20.45.39:062][762]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003326s)
+[2023.10.02-20.45.39:062][762]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.02-20.45.39:062][762]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.02-20.45.39:062][762]LogAIModule: Creating AISystem for world Main
+[2023.10.02-20.45.39:063][762]LogPlayLevel: PIE: World Init took: (0.000881s)
+[2023.10.02-20.45.39:134][762]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.10.02-20.45.39:136][762]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.10.02-20.45.39:136][762]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.02-20.45.39:136][762]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.02-20.45.39:136][762]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.02-20.45.39:136][762]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.02-20.45.39:136][762]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.02-20.45.39:136][762]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.02-20.45.39:136][762]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.02-20.45.39:136][762]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.02-20.45.39:137][762]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.02-20.45.39:137][762]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.02-20.45.39:137][762]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.02-20.45.39:140][762]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.02-20.45.39:185][762]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.10.02-20.45.39:186][762]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.02-20.45.39:186][762]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.02-20.45.39:186][762]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.02-20.45.39:186][762]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.10.02-20.45.39:186][762]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.10.02-20.45.39:188][762]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.10.02-20.45.39:188][762]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.10.02-20.45.39:188][762]LogInit: FAudioDevice initialized with ID 6.
+[2023.10.02-20.45.39:188][762]LogAudio: Display: Audio Device (ID: 6) registered with world 'Main'.
+[2023.10.02-20.45.39:188][762]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2023.10.02-20.45.39:191][762]LogLoad: Game class is 'GameModeBase'
+[2023.10.02-20.45.39:192][762]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.10.02-16.45.39
+[2023.10.02-20.45.39:193][762]LogWorld: Bringing up level for play took: 0.001324
+[2023.10.02-20.45.39:195][762]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.10.02-20.45.39:195][762]PIE: Server logged in
+[2023.10.02-20.45.39:196][762]PIE: Play in editor total start time 0.138 seconds.
+[2023.10.02-20.45.39:197][762]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:225][762]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.45.39:225][762]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.45.39:225][762]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.45.39:226][762]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.45.39:226][762]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.45.39:227][762]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.45.39:227][762]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.45.39:227][762]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.45.39:228][762]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.45.39:228][762]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.45.39:229][762]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.45.39:229][762]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.45.39:229][762]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.45.39:234][763]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:242][764]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:250][765]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:258][766]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:267][767]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:275][768]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:283][769]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:292][770]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:300][771]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:309][772]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:317][773]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:325][774]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:333][775]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:342][776]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:350][777]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:359][778]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:367][779]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:375][780]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:384][781]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:392][782]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:401][783]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:409][784]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:417][785]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:426][786]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:434][787]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:441][788]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:450][789]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:458][790]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:467][791]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:475][792]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:483][793]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:492][794]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:501][795]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:509][796]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:517][797]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:526][798]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:534][799]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:542][800]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:551][801]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:559][802]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:568][803]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:576][804]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:584][805]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:592][806]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:600][807]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:609][808]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:617][809]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:625][810]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:634][811]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:642][812]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:650][813]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:659][814]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:667][815]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:675][816]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:684][817]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:692][818]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:700][819]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:709][820]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:717][821]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:726][822]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:734][823]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:742][824]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:751][825]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:759][826]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:767][827]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:776][828]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:784][829]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:792][830]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:801][831]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:809][832]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:817][833]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:825][834]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:833][835]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:842][836]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:850][837]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:858][838]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:867][839]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:875][840]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:883][841]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:891][842]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:900][843]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:908][844]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:917][845]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:926][846]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:934][847]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:942][848]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:951][849]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:959][850]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:967][851]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:976][852]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:984][853]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.39:992][854]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:001][855]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:010][856]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:017][857]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:025][858]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:033][859]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:041][860]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:050][861]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:058][862]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:067][863]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:075][864]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:083][865]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:092][866]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:101][867]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:109][868]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:117][869]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:125][870]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:134][871]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:142][872]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:150][873]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:159][874]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:167][875]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:175][876]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:184][877]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:192][878]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:200][879]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:209][880]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:217][881]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:225][882]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:234][883]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:242][884]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:251][885]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:259][886]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:267][887]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:276][888]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:284][889]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:292][890]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:301][891]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:309][892]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:317][893]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:326][894]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:334][895]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:342][896]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:351][897]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:359][898]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:368][899]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:376][900]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:383][901]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:392][902]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:400][903]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:408][904]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:417][905]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:425][906]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:433][907]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:442][908]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:450][909]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:458][910]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:467][911]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:476][912]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:485][913]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:495][914]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:501][915]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:509][916]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:518][917]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:526][918]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:534][919]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:543][920]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:551][921]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:560][922]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:568][923]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:575][924]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:583][925]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:592][926]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:600][927]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:609][928]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:617][929]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:626][930]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:634][931]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:642][932]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:650][933]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:659][934]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:667][935]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:675][936]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:684][937]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:692][938]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:701][939]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:709][940]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:718][941]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:726][942]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:734][943]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:742][944]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:751][945]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.45.40:759][946]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.45.40:766][947]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.45.40:775][948]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.45.40:783][949]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.45.40:792][950]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.45.40:800][951]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.45.40:809][952]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.45.40:817][953]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.45.40:825][954]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.45.40:834][955]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.45.40:842][956]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.45.40:850][957]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.45.40:859][958]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:867][959]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:875][960]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:883][961]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:892][962]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:900][963]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:909][964]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:917][965]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:925][966]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:933][967]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:942][968]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:950][969]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:959][970]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:967][971]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:975][972]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:984][973]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.40:992][974]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.45.41:001][975]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.45.41:009][976]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.45.41:018][977]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.45.41:026][978]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.45.41:035][979]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.45.41:043][980]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.45.41:052][981]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.45.41:059][982]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.45.41:068][983]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.45.41:076][984]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.45.41:085][985]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.45.41:093][986]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.45.41:102][987]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.45.41:110][988]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:118][989]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:126][990]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:135][991]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:142][992]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:150][993]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:159][994]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:167][995]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:176][996]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:184][997]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:192][998]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:201][999]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.45.41:209][  0]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.45.41:218][  1]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.45.41:227][  2]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.45.41:235][  3]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.45.41:243][  4]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.45.41:251][  5]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.45.41:260][  6]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.45.41:268][  7]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.45.41:276][  8]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.45.41:285][  9]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.45.41:293][ 10]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.45.41:301][ 11]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.45.41:309][ 12]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:318][ 13]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:326][ 14]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:334][ 15]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:343][ 16]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:351][ 17]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:359][ 18]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:367][ 19]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:376][ 20]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:384][ 21]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:392][ 22]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:401][ 23]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:409][ 24]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:418][ 25]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:426][ 26]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.45.41:434][ 27]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.45.41:443][ 28]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.45.41:451][ 29]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.45.41:459][ 30]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.45.41:468][ 31]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.45.41:476][ 32]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.45.41:485][ 33]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.45.41:493][ 34]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.45.41:502][ 35]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.45.41:510][ 36]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.45.41:517][ 37]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.45.41:525][ 38]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.45.41:534][ 39]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.45.41:542][ 40]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.45.41:551][ 41]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.45.41:559][ 42]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:567][ 43]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:576][ 44]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:584][ 45]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:592][ 46]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:601][ 47]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:609][ 48]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:618][ 49]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:626][ 50]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:634][ 51]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:642][ 52]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:651][ 53]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:659][ 54]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:668][ 55]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:676][ 56]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:685][ 57]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:693][ 58]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:701][ 59]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:709][ 60]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:718][ 61]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:726][ 62]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:734][ 63]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:743][ 64]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:751][ 65]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:759][ 66]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:768][ 67]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:776][ 68]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:784][ 69]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:793][ 70]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:801][ 71]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:809][ 72]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:818][ 73]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:826][ 74]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:834][ 75]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:843][ 76]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:851][ 77]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:860][ 78]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:868][ 79]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:877][ 80]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:885][ 81]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:892][ 82]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:900][ 83]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:909][ 84]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:917][ 85]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:925][ 86]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:934][ 87]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:942][ 88]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:951][ 89]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:959][ 90]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:967][ 91]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:976][ 92]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:984][ 93]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.41:992][ 94]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.42:001][ 95]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.42:009][ 96]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.42:018][ 97]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.42:026][ 98]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.42:034][ 99]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.42:042][100]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.42:051][101]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.42:059][102]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.42:068][103]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.42:076][104]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.42:084][105]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.42:093][106]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.42:101][107]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.42:109][108]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.42:118][109]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.42:126][110]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.42:134][111]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.42:143][112]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.42:151][113]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.42:159][114]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.42:168][115]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.42:176][116]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.42:184][117]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.42:193][118]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.42:201][119]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.42:209][120]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.42:217][121]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.42:226][122]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.42:234][123]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.42:242][124]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.42:250][125]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.42:259][126]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.42:267][127]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.42:275][128]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.42:284][129]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.42:292][130]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.42:300][131]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.45.42:326][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.02-20.45.42:326][131]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2023.10.02-20.45.42:326][131]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.10.02-20.45.42:327][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.02-20.45.42:332][131]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.02-20.45.42:336][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.02-20.45.42:354][131]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.02-20.45.42:356][131]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2023.10.02-20.45.42:356][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.10.02-20.45.42:359][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.10.02-20.45.42:363][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.02-20.45.42:407][131]LogUObjectHash: Compacting FUObjectHashTables data took  17.40ms
+[2023.10.02-20.45.42:431][131]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.45.42:431][131]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.45.42:431][131]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.45.42:432][131]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.45.42:432][131]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.45.42:433][131]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.45.42:433][131]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.45.42:433][131]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.45.42:434][131]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.45.42:434][131]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.45.42:434][131]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.45.42:435][131]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.45.42:435][131]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.45.42:453][132]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.10.02-20.46.03:209][353]Candidate modules for hot reload:
+[2023.10.02-20.46.03:209][353]  ToonTanks
+[2023.10.02-20.46.03:214][353]Launching UnrealBuildTool... [Z:/UE_5.2/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=ToonTanks,5402 ToonTanksEditor Win64 Development -Project="Z:/toon-tanks/Toon Tanks/ToonTanksProjectSetup_4.25/ToonTanksProjectSetup_4.25/ToonTanks 5.2/ToonTanks.uproject" "Z:/toon-tanks/Toon Tanks/ToonTanksProjectSetup_4.25/ToonTanksProjectSetup_4.25/ToonTanks 5.2/ToonTanks.uproject"  -IgnoreJunk]
+[2023.10.02-20.46.03:218][353]Warning: Starting HotReload took  0.0s.
+[2023.10.02-20.46.06:499][673]CompilerResultsLog: New page: Compilation - Oct 2, 2023, 12:46:06 PM
+[2023.10.02-20.46.06:499][673]CompilerResultsLog: Using bundled DotNet SDK version: 6.0.302
+[2023.10.02-20.46.06:499][673]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=ToonTanks,5402 ToonTanksEditor Win64 Development -Project="Z:/toon-tanks/Toon Tanks/ToonTanksProjectSetup_4.25/ToonTanksProjectSetup_4.25/ToonTanks 5.2/ToonTanks.uproject" "Z:/toon-tanks/Toon Tanks/ToonTanksProjectSetup_4.25/ToonTanksProjectSetup_4.25/ToonTanks 5.2/ToonTanks.uproject"  -IgnoreJunk
+[2023.10.02-20.46.06:499][673]CompilerResultsLog: Log file: C:\Users\andrewdlanham\AppData\Local\UnrealBuildTool\Log.txt
+[2023.10.02-20.46.06:499][673]CompilerResultsLog: Building ToonTanksEditor...
+[2023.10.02-20.46.06:499][673]CompilerResultsLog: Using Visual Studio 2022 14.37.32824 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.10.02-20.46.06:499][673]CompilerResultsLog: [Upgrade]
+[2023.10.02-20.46.06:499][673]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2023.10.02-20.46.06:499][673]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_0
+[2023.10.02-20.46.06:499][673]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_2;' in ToonTanksEditor.Target.cs.
+[2023.10.02-20.46.06:500][673]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2023.10.02-20.46.06:500][673]CompilerResultsLog: [Upgrade]
+[2023.10.02-20.46.06:500][673]CompilerResultsLog: Determining max actions to execute in parallel (4 physical cores, 8 logical cores)
+[2023.10.02-20.46.06:500][673]CompilerResultsLog:   Executing up to 4 processes, one per physical core
+[2023.10.02-20.46.06:500][673]CompilerResultsLog: Building 3 actions with 3 processes...
+[2023.10.02-20.46.06:500][673]CompilerResultsLog: [1/3] Link [x64] UnrealEditor-ToonTanks-5402.lib
+[2023.10.02-20.46.06:500][673]CompilerResultsLog:    Creating library Z:\toon-tanks\Toon Tanks\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks 5.2\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToonTanks\UnrealEditor-ToonTanks-5402.lib and object Z:\toon-tanks\Toon Tanks\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks 5.2\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToonTanks\UnrealEditor-ToonTanks-5402.exp
+[2023.10.02-20.46.06:500][673]CompilerResultsLog: [2/3] Link [x64] UnrealEditor-ToonTanks-5402.dll
+[2023.10.02-20.46.06:500][673]CompilerResultsLog:    Creating library Z:\toon-tanks\Toon Tanks\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks 5.2\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToonTanks\UnrealEditor-ToonTanks-5402.suppressed.lib and object Z:\toon-tanks\Toon Tanks\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks 5.2\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToonTanks\UnrealEditor-ToonTanks-5402.suppressed.exp
+[2023.10.02-20.46.06:500][673]CompilerResultsLog: [3/3] WriteMetadata ToonTanksEditor.target
+[2023.10.02-20.46.06:500][673]CompilerResultsLog: Total time in Parallel executor: 1.90 seconds
+[2023.10.02-20.46.06:500][673]CompilerResultsLog: Total execution time: 3.13 seconds
+[2023.10.02-20.46.06:500][673]LogMainFrame: MainFrame: Module compiling took 3.306 seconds
+[2023.10.02-20.46.06:521][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.10.02-20.46.06:667][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.10.02-20.46.06:699][673]Display: HotReload took  3.5s.
+[2023.10.02-20.46.06:699][673]Display: Reload/Re-instancing Complete: 1 package changed, 2 classes unchanged
+[2023.10.02-20.46.09:464][943]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.02-20.46.09:470][943]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.02-20.46.09:470][943]PIE: New page: PIE session: Main (Oct 2, 2023, 12:46:09 PM)
+[2023.10.02-20.46.09:506][943]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2023.10.02-20.46.09:509][943]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003230s)
+[2023.10.02-20.46.09:509][943]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003267s)
+[2023.10.02-20.46.09:509][943]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.02-20.46.09:509][943]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.02-20.46.09:510][943]LogAIModule: Creating AISystem for world Main
+[2023.10.02-20.46.09:510][943]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2023.10.02-20.46.09:578][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.10.02-20.46.09:582][943]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.10.02-20.46.09:582][943]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.02-20.46.09:582][943]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.02-20.46.09:582][943]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.02-20.46.09:582][943]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.02-20.46.09:582][943]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.02-20.46.09:582][943]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.02-20.46.09:582][943]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.02-20.46.09:582][943]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.02-20.46.09:582][943]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.02-20.46.09:582][943]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.02-20.46.09:582][943]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.02-20.46.09:584][943]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.02-20.46.09:631][943]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.10.02-20.46.09:631][943]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.02-20.46.09:631][943]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.02-20.46.09:631][943]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.02-20.46.09:632][943]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.10.02-20.46.09:632][943]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.10.02-20.46.09:633][943]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.10.02-20.46.09:634][943]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.10.02-20.46.09:634][943]LogInit: FAudioDevice initialized with ID 7.
+[2023.10.02-20.46.09:634][943]LogAudio: Display: Audio Device (ID: 7) registered with world 'Main'.
+[2023.10.02-20.46.09:634][943]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2023.10.02-20.46.09:637][943]LogLoad: Game class is 'GameModeBase'
+[2023.10.02-20.46.09:638][943]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.10.02-16.46.09
+[2023.10.02-20.46.09:638][943]LogWorld: Bringing up level for play took: 0.001293
+[2023.10.02-20.46.09:640][943]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2023.10.02-20.46.09:641][943]PIE: Server logged in
+[2023.10.02-20.46.09:641][943]PIE: Play in editor total start time 0.172 seconds.
+[2023.10.02-20.46.09:642][943]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.09:668][943]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.09:668][943]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.09:669][943]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.09:670][943]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.09:671][943]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.09:671][943]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.09:672][943]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.09:672][943]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.09:673][943]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.09:673][943]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.09:673][943]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.09:674][943]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.09:674][943]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.09:679][944]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.09:688][945]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.09:694][946]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.09:703][947]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.09:711][948]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.09:720][949]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.09:728][950]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.09:737][951]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.09:744][952]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.09:753][953]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.09:761][954]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.09:770][955]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.09:778][956]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.09:787][957]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.09:795][958]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.09:804][959]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.09:812][960]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.09:821][961]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.09:829][962]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.09:837][963]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.09:845][964]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.09:855][965]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.09:862][966]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.09:871][967]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.09:879][968]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.09:887][969]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.09:894][970]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.09:904][971]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.09:911][972]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.09:921][973]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.09:928][974]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.09:938][975]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.09:945][976]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.09:954][977]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.09:962][978]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.09:971][979]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.09:979][980]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.09:988][981]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.09:995][982]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:005][983]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:012][984]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:022][985]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:029][986]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:037][987]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:045][988]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:054][989]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:062][990]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:071][991]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:078][992]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:088][993]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:095][994]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:104][995]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:112][996]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:121][997]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:129][998]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:138][999]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:145][  0]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:155][  1]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:162][  2]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:170][  3]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:178][  4]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:187][  5]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:195][  6]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:204][  7]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:212][  8]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:221][  9]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:228][ 10]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:237][ 11]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:246][ 12]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:255][ 13]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:262][ 14]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:271][ 15]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:278][ 16]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:287][ 17]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:294][ 18]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:303][ 19]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:311][ 20]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:320][ 21]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:328][ 22]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:338][ 23]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:345][ 24]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:354][ 25]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:362][ 26]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:370][ 27]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:378][ 28]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:388][ 29]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:395][ 30]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:404][ 31]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:412][ 32]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:421][ 33]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:428][ 34]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:437][ 35]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:445][ 36]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:454][ 37]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:462][ 38]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:471][ 39]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:478][ 40]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:488][ 41]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:495][ 42]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:504][ 43]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:512][ 44]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:521][ 45]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:529][ 46]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:538][ 47]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:546][ 48]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:555][ 49]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:562][ 50]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:571][ 51]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:579][ 52]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:588][ 53]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:596][ 54]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:605][ 55]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:612][ 56]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:621][ 57]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:629][ 58]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:638][ 59]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:645][ 60]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:655][ 61]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:662][ 62]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:672][ 63]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:678][ 64]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:689][ 65]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:695][ 66]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:704][ 67]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:712][ 68]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:721][ 69]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:728][ 70]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:737][ 71]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:745][ 72]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:754][ 73]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:761][ 74]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:770][ 75]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:778][ 76]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:788][ 77]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:795][ 78]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:805][ 79]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:812][ 80]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:821][ 81]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:828][ 82]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:837][ 83]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:845][ 84]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:855][ 85]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:862][ 86]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:871][ 87]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:879][ 88]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:888][ 89]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:896][ 90]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:904][ 91]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:912][ 92]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:921][ 93]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:929][ 94]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:938][ 95]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:946][ 96]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:955][ 97]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:962][ 98]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:971][ 99]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:979][100]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:988][101]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.10:996][102]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:005][103]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:012][104]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:022][105]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:028][106]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:037][107]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:045][108]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:054][109]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:062][110]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:071][111]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:079][112]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:088][113]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:096][114]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:104][115]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:112][116]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:121][117]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:129][118]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:138][119]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:145][120]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:154][121]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:162][122]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:170][123]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:178][124]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:187][125]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:195][126]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:204][127]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:212][128]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:221][129]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:229][130]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:238][131]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:246][132]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:254][133]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:262][134]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:271][135]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:279][136]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:288][137]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:295][138]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:304][139]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:312][140]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:321][141]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:329][142]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:338][143]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:345][144]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:354][145]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:362][146]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:371][147]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:379][148]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:387][149]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:396][150]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:404][151]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:411][152]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:421][153]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:428][154]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:437][155]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:445][156]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:453][157]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:462][158]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:470][159]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:478][160]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:487][161]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:495][162]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:504][163]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:512][164]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:521][165]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:529][166]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:538][167]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:545][168]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:554][169]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:562][170]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:570][171]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:579][172]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:588][173]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:595][174]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:604][175]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:612][176]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:621][177]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:629][178]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:637][179]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:646][180]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:654][181]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:663][182]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:671][183]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:678][184]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:687][185]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:695][186]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:703][187]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:712][188]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:720][189]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:728][190]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:738][191]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:745][192]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:755][193]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:763][194]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:771][195]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:779][196]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:787][197]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:795][198]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:803][199]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:812][200]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:821][201]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:829][202]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:837][203]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:845][204]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:854][205]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:862][206]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:871][207]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:879][208]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:887][209]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:896][210]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:904][211]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:912][212]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.11:921][213]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.11:929][214]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.11:938][215]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.11:945][216]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.11:954][217]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.11:962][218]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.11:970][219]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.11:979][220]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.11:987][221]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.11:995][222]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.12:004][223]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.12:012][224]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:021][225]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:029][226]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:037][227]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:046][228]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:054][229]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:062][230]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:071][231]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:079][232]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:089][233]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:096][234]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:104][235]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:112][236]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:121][237]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:129][238]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:138][239]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:146][240]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:155][241]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.12:162][242]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.12:171][243]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.12:179][244]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.12:188][245]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.12:196][246]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.12:205][247]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.12:212][248]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.12:222][249]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.12:229][250]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.12:238][251]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.12:246][252]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.12:255][253]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.12:263][254]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.12:272][255]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:280][256]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:289][257]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:296][258]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:304][259]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:313][260]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:321][261]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:329][262]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:338][263]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:346][264]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:355][265]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:362][266]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:370][267]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:378][268]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:387][269]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.12:395][270]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.12:404][271]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.12:412][272]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.12:421][273]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.12:428][274]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.12:437][275]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.12:445][276]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.12:454][277]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.12:462][278]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:471][279]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:478][280]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:487][281]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:495][282]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:503][283]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:512][284]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:521][285]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:529][286]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:538][287]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:545][288]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:555][289]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:563][290]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:571][291]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:579][292]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:588][293]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:596][294]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:605][295]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:613][296]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:622][297]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:629][298]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:638][299]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:646][300]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:655][301]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:663][302]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:672][303]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:679][304]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:688][305]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:696][306]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:704][307]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:713][308]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:722][309]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:729][310]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:739][311]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:746][312]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:755][313]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:762][314]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:770][315]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:779][316]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:788][317]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:796][318]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:805][319]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:812][320]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:822][321]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:829][322]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:838][323]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:846][324]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:854][325]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:862][326]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:872][327]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:879][328]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:888][329]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:896][330]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:904][331]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:913][332]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:921][333]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:929][334]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:938][335]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:946][336]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:955][337]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:963][338]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:971][339]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:979][340]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:988][341]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.12:996][342]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:005][343]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:013][344]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:021][345]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:029][346]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:037][347]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:046][348]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:054][349]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:062][350]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:071][351]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:079][352]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:088][353]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:095][354]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:104][355]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:112][356]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:121][357]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:129][358]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:138][359]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:145][360]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:154][361]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:162][362]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:171][363]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:179][364]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:187][365]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:196][366]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:205][367]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:212][368]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:221][369]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:229][370]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:238][371]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:246][372]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:255][373]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:262][374]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:272][375]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:279][376]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:288][377]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:296][378]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:304][379]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:312][380]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:321][381]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:329][382]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:338][383]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:346][384]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:355][385]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:362][386]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:371][387]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:380][388]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:389][389]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:396][390]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:405][391]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:413][392]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:422][393]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:430][394]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:438][395]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:447][396]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:455][397]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:463][398]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:472][399]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:479][400]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:489][401]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:496][402]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:505][403]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:512][404]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:521][405]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:529][406]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:538][407]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:546][408]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:555][409]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:562][410]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:571][411]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:580][412]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:589][413]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:596][414]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:605][415]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:613][416]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:622][417]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:630][418]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:638][419]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:646][420]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:655][421]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:663][422]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:672][423]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:679][424]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:689][425]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:695][426]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:704][427]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:712][428]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:721][429]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:729][430]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:738][431]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:746][432]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:755][433]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:762][434]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:771][435]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:780][436]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:789][437]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:796][438]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:806][439]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:813][440]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:822][441]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:830][442]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:839][443]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:847][444]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:856][445]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:864][446]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:872][447]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:879][448]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:888][449]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:896][450]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:904][451]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:913][452]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:921][453]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:929][454]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:938][455]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:946][456]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:955][457]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:963][458]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:971][459]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:979][460]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:988][461]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.13:996][462]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:005][463]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:013][464]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:022][465]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:029][466]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:038][467]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:046][468]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:055][469]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:063][470]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:071][471]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:079][472]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:088][473]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:095][474]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:104][475]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:112][476]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:120][477]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:128][478]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:137][479]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:145][480]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:154][481]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:162][482]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:171][483]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:179][484]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:187][485]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:195][486]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:204][487]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:212][488]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:221][489]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:229][490]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:237][491]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:245][492]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:254][493]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:262][494]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:271][495]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:279][496]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:288][497]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:295][498]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:304][499]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:313][500]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:322][501]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:330][502]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:338][503]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:346][504]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:355][505]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:363][506]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:371][507]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:380][508]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:388][509]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:396][510]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:404][511]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:413][512]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:422][513]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:430][514]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:438][515]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:446][516]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:454][517]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:462][518]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:472][519]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:479][520]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:488][521]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:496][522]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:504][523]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:512][524]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:521][525]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:529][526]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:538][527]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:545][528]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:555][529]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:562][530]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:571][531]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:579][532]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:588][533]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:596][534]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:604][535]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:612][536]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:621][537]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:629][538]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:638][539]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:646][540]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:654][541]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:662][542]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:671][543]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:679][544]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:688][545]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:696][546]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:704][547]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:713][548]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:721][549]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:729][550]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:738][551]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:746][552]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:755][553]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:763][554]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:771][555]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:780][556]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:788][557]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:796][558]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:805][559]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:813][560]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:822][561]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:830][562]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:837][563]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:846][564]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:854][565]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:862][566]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:871][567]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:879][568]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:888][569]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:896][570]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:904][571]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:913][572]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:921][573]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:930][574]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:938][575]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:946][576]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:955][577]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:963][578]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:971][579]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:979][580]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:988][581]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.14:996][582]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:004][583]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:012][584]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:021][585]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:029][586]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:038][587]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:046][588]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:055][589]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:063][590]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:071][591]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:079][592]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:088][593]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:096][594]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:104][595]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:112][596]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:121][597]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:129][598]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:138][599]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:146][600]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:155][601]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:163][602]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:172][603]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:180][604]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:189][605]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:197][606]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:206][607]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:214][608]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:222][609]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:231][610]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:239][611]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:247][612]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:256][613]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:264][614]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:272][615]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:281][616]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:289][617]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:298][618]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:306][619]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:314][620]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:322][621]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:331][622]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:339][623]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:347][624]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:356][625]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:364][626]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:372][627]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:380][628]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:389][629]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:397][630]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:405][631]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:413][632]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:421][633]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:430][634]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:438][635]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:446][636]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:455][637]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:463][638]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:471][639]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:479][640]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:488][641]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:496][642]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:505][643]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:514][644]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:522][645]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:531][646]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:539][647]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:547][648]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:556][649]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:564][650]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.15:573][651]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.15:581][652]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.15:589][653]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.15:597][654]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.15:605][655]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.15:613][656]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.15:622][657]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.15:630][658]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.15:639][659]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.15:647][660]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.15:655][661]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.15:664][662]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.15:673][663]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:681][664]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:690][665]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:698][666]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:706][667]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:714][668]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:723][669]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:731][670]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:739][671]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:748][672]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:756][673]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:764][674]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:772][675]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:781][676]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.15:789][677]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.15:797][678]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.15:806][679]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.15:814][680]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.15:822][681]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.15:831][682]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.15:839][683]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.15:847][684]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.15:856][685]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.15:864][686]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.15:873][687]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.15:881][688]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:889][689]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:897][690]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:907][691]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:914][692]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:923][693]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:931][694]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:940][695]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:948][696]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:957][697]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:964][698]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:972][699]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:980][700]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:989][701]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.15:997][702]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:006][703]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:014][704]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:022][705]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:030][706]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.16:039][707]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.16:047][708]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.16:055][709]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.16:064][710]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.16:072][711]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.16:080][712]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.16:089][713]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.16:097][714]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.16:105][715]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.16:114][716]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.16:122][717]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.16:130][718]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.16:139][719]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.16:147][720]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.16:156][721]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.16:164][722]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:172][723]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:180][724]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:189][725]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:197][726]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:206][727]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:214][728]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:222][729]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:231][730]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:239][731]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:248][732]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:256][733]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:264][734]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:272][735]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:281][736]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:289][737]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.16:298][738]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.16:306][739]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.16:315][740]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.16:324][741]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:331][742]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:340][743]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:348][744]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:355][745]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:363][746]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:372][747]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:380][748]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:389][749]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:397][750]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:406][751]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:414][752]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:422][753]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:430][754]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:439][755]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:447][756]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:455][757]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:464][758]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:472][759]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:481][760]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:489][761]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:497][762]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:506][763]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:514][764]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.16:523][765]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.16:531][766]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.16:539][767]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.16:548][768]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.16:556][769]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.16:564][770]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.16:572][771]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.16:581][772]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.16:589][773]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:597][774]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:606][775]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:614][776]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:623][777]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:632][778]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:641][779]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:648][780]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:657][781]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:664][782]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:673][783]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:681][784]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.16:690][785]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.16:698][786]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.16:706][787]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.16:715][788]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.16:723][789]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.16:732][790]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.16:741][791]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.16:749][792]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:759][793]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:766][794]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:774][795]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:783][796]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:791][797]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:799][798]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:807][799]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:815][800]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:823][801]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:832][802]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.16:839][803]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.16:847][804]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.16:856][805]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.16:864][806]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.16:873][807]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.16:881][808]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.16:890][809]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.16:897][810]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.16:906][811]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:914][812]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:921][813]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:930][814]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:938][815]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:947][816]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:956][817]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:963][818]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:971][819]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:980][820]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:988][821]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.16:997][822]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:005][823]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.17:013][824]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.17:022][825]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.17:030][826]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.17:038][827]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.17:047][828]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.17:055][829]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.17:063][830]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.17:072][831]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.17:080][832]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.17:089][833]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:097][834]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:105][835]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:113][836]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:122][837]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:130][838]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:139][839]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:147][840]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:156][841]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:164][842]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:172][843]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.17:180][844]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.17:188][845]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.17:197][846]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.17:205][847]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.17:213][848]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.17:222][849]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.17:230][850]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.17:238][851]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.17:247][852]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:255][853]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:264][854]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:272][855]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:281][856]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:289][857]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:296][858]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:305][859]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:313][860]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:322][861]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:330][862]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.17:338][863]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.17:347][864]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.17:355][865]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.17:363][866]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.17:372][867]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.17:381][868]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.17:389][869]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.17:397][870]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.17:406][871]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:414][872]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:423][873]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:431][874]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:439][875]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:447][876]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:456][877]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:464][878]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:472][879]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:480][880]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:489][881]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:497][882]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:505][883]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:514][884]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:522][885]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:531][886]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.17:539][887]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.17:547][888]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.17:556][889]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.17:564][890]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.17:572][891]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.17:580][892]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.17:589][893]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.17:597][894]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.17:606][895]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.17:614][896]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.17:623][897]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:631][898]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:639][899]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:647][900]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:656][901]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:664][902]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:672][903]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:680][904]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:688][905]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:696][906]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:705][907]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:713][908]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:722][909]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:730][910]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:738][911]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:747][912]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:755][913]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:763][914]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:772][915]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:780][916]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:789][917]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:797][918]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:805][919]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:814][920]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:822][921]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:830][922]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:839][923]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:847][924]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:856][925]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:863][926]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:872][927]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:880][928]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:889][929]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:897][930]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:905][931]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:914][932]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:922][933]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:930][934]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:939][935]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:947][936]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:956][937]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:964][938]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:972][939]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:981][940]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:989][941]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.17:997][942]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.18:006][943]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.18:014][944]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.18:022][945]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.18:031][946]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.18:039][947]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.18:048][948]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.18:075][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.02-20.46.18:075][948]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2023.10.02-20.46.18:076][948]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.10.02-20.46.18:076][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.02-20.46.18:081][948]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.02-20.46.18:085][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.02-20.46.18:104][948]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.02-20.46.18:105][948]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2023.10.02-20.46.18:105][948]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.10.02-20.46.18:106][948]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.10.02-20.46.18:110][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.02-20.46.18:128][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.10.02-20.46.18:148][948]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.18:148][948]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.18:148][948]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.18:149][948]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.18:149][948]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.18:150][948]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.18:150][948]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.18:150][948]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.18:151][948]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.18:151][948]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.18:151][948]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.18:152][948]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.18:152][948]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.18:172][949]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.10.02-20.46.42:076][169]LogSlate: Window 'Output Log' being destroyed
+[2023.10.02-20.46.42:081][169]LogViewport: Scene viewport resized to 1491x448, mode Windowed.
+[2023.10.02-20.46.43:402][324]LogViewport: Scene viewport resized to 1491x451, mode Windowed.
+[2023.10.02-20.46.43:432][325]LogViewport: Scene viewport resized to 1491x466, mode Windowed.
+[2023.10.02-20.46.43:460][326]LogViewport: Scene viewport resized to 1491x490, mode Windowed.
+[2023.10.02-20.46.43:489][327]LogViewport: Scene viewport resized to 1491x519, mode Windowed.
+[2023.10.02-20.46.43:518][328]LogViewport: Scene viewport resized to 1491x550, mode Windowed.
+[2023.10.02-20.46.43:547][329]LogViewport: Scene viewport resized to 1491x566, mode Windowed.
+[2023.10.02-20.46.43:577][330]LogViewport: Scene viewport resized to 1491x578, mode Windowed.
+[2023.10.02-20.46.43:606][331]LogViewport: Scene viewport resized to 1491x592, mode Windowed.
+[2023.10.02-20.46.43:635][332]LogViewport: Scene viewport resized to 1491x603, mode Windowed.
+[2023.10.02-20.46.43:664][333]LogViewport: Scene viewport resized to 1491x609, mode Windowed.
+[2023.10.02-20.46.43:693][334]LogViewport: Scene viewport resized to 1491x612, mode Windowed.
+[2023.10.02-20.46.43:721][335]LogViewport: Scene viewport resized to 1491x616, mode Windowed.
+[2023.10.02-20.46.43:750][336]LogViewport: Scene viewport resized to 1491x623, mode Windowed.
+[2023.10.02-20.46.43:779][337]LogViewport: Scene viewport resized to 1491x627, mode Windowed.
+[2023.10.02-20.46.43:808][338]LogViewport: Scene viewport resized to 1491x633, mode Windowed.
+[2023.10.02-20.46.43:836][339]LogViewport: Scene viewport resized to 1491x639, mode Windowed.
+[2023.10.02-20.46.43:865][340]LogViewport: Scene viewport resized to 1491x641, mode Windowed.
+[2023.10.02-20.46.43:893][341]LogViewport: Scene viewport resized to 1491x649, mode Windowed.
+[2023.10.02-20.46.43:923][342]LogViewport: Scene viewport resized to 1491x660, mode Windowed.
+[2023.10.02-20.46.43:952][343]LogViewport: Scene viewport resized to 1491x665, mode Windowed.
+[2023.10.02-20.46.43:981][344]LogViewport: Scene viewport resized to 1491x673, mode Windowed.
+[2023.10.02-20.46.44:018][345]LogViewport: Scene viewport resized to 1491x675, mode Windowed.
+[2023.10.02-20.46.44:058][347]LogViewport: Scene viewport resized to 1491x676, mode Windowed.
+[2023.10.02-20.46.44:089][348]LogViewport: Scene viewport resized to 1491x679, mode Windowed.
+[2023.10.02-20.46.44:117][349]LogViewport: Scene viewport resized to 1491x688, mode Windowed.
+[2023.10.02-20.46.44:145][350]LogViewport: Scene viewport resized to 1491x693, mode Windowed.
+[2023.10.02-20.46.44:174][351]LogViewport: Scene viewport resized to 1491x695, mode Windowed.
+[2023.10.02-20.46.44:201][352]LogViewport: Scene viewport resized to 1491x698, mode Windowed.
+[2023.10.02-20.46.44:230][353]LogViewport: Scene viewport resized to 1491x700, mode Windowed.
+[2023.10.02-20.46.45:441][494]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.02-20.46.45:446][494]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.02-20.46.45:446][494]PIE: New page: PIE session: Main (Oct 2, 2023, 12:46:45 PM)
+[2023.10.02-20.46.45:476][494]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2023.10.02-20.46.45:479][494]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003157s)
+[2023.10.02-20.46.45:479][494]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003194s)
+[2023.10.02-20.46.45:479][494]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.02-20.46.45:479][494]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.02-20.46.45:480][494]LogAIModule: Creating AISystem for world Main
+[2023.10.02-20.46.45:480][494]LogPlayLevel: PIE: World Init took: (0.000764s)
+[2023.10.02-20.46.45:502][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.10.02-20.46.45:504][494]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.10.02-20.46.45:504][494]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.02-20.46.45:504][494]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.02-20.46.45:504][494]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.02-20.46.45:505][494]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.02-20.46.45:505][494]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.02-20.46.45:505][494]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.02-20.46.45:505][494]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.02-20.46.45:505][494]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.02-20.46.45:505][494]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.02-20.46.45:505][494]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.02-20.46.45:505][494]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.02-20.46.45:507][494]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.02-20.46.45:551][494]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.10.02-20.46.45:552][494]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.02-20.46.45:552][494]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.02-20.46.45:552][494]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.02-20.46.45:552][494]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.10.02-20.46.45:552][494]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.10.02-20.46.45:554][494]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.10.02-20.46.45:554][494]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.10.02-20.46.45:554][494]LogInit: FAudioDevice initialized with ID 8.
+[2023.10.02-20.46.45:554][494]LogAudio: Display: Audio Device (ID: 8) registered with world 'Main'.
+[2023.10.02-20.46.45:554][494]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2023.10.02-20.46.45:557][494]LogLoad: Game class is 'GameModeBase'
+[2023.10.02-20.46.45:558][494]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.10.02-16.46.45
+[2023.10.02-20.46.45:558][494]LogWorld: Bringing up level for play took: 0.001378
+[2023.10.02-20.46.45:560][494]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2023.10.02-20.46.45:561][494]PIE: Server logged in
+[2023.10.02-20.46.45:562][494]PIE: Play in editor total start time 0.116 seconds.
+[2023.10.02-20.46.45:562][494]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:590][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.45:590][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.45:590][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.45:591][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.45:591][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.45:592][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.45:592][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.45:592][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.45:593][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.45:593][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.45:593][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.45:594][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.45:594][494]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.45:599][495]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:607][496]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:616][497]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:624][498]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:632][499]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:641][500]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:649][501]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:657][502]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:666][503]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:674][504]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:682][505]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:691][506]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:699][507]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:706][508]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:715][509]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:723][510]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:731][511]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:740][512]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:748][513]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:757][514]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:765][515]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:773][516]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:782][517]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:790][518]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:799][519]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:807][520]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:815][521]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:823][522]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:832][523]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:840][524]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:848][525]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:857][526]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:866][527]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:874][528]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:882][529]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:890][530]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:898][531]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:907][532]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:915][533]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:923][534]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:931][535]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:940][536]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:948][537]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:957][538]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:965][539]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:974][540]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:982][541]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:990][542]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.45:999][543]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.46:007][544]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.46:016][545]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.46:024][546]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:032][547]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:041][548]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:049][549]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:057][550]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:065][551]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:074][552]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:082][553]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:090][554]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:099][555]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:107][556]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:115][557]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.46:124][558]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.46:132][559]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.46:140][560]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.46:149][561]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.46:157][562]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.46:165][563]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.46:174][564]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.46:182][565]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.46:190][566]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.46:199][567]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.46:207][568]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.46:216][569]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.46:224][570]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.46:232][571]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.46:241][572]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.46:249][573]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.46:257][574]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.46:266][575]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.46:273][576]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.46:281][577]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.46:290][578]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.46:298][579]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.46:307][580]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.46:315][581]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.46:323][582]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.46:332][583]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.46:340][584]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.46:348][585]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.46:357][586]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.46:365][587]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.46:373][588]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.46:382][589]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.46:390][590]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.46:398][591]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.46:407][592]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.46:415][593]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:424][594]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:432][595]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:440][596]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:449][597]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:457][598]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:465][599]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:474][600]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:482][601]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:490][602]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:499][603]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:507][604]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:515][605]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:524][606]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:532][607]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:540][608]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:549][609]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:557][610]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:565][611]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:574][612]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:582][613]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:591][614]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:599][615]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:607][616]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:616][617]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:624][618]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:632][619]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:641][620]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:648][621]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:656][622]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:665][623]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:673][624]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:681][625]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:690][626]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:698][627]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:707][628]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:715][629]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:723][630]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:732][631]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:740][632]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:748][633]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:757][634]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:765][635]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:773][636]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:782][637]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:790][638]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:799][639]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:807][640]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:815][641]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:824][642]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:832][643]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:840][644]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:849][645]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:857][646]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:865][647]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:874][648]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:882][649]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:890][650]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:899][651]LogTemp: Display: Move(1.000000)
+[2023.10.02-20.46.46:907][652]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.46:915][653]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.46:924][654]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.46:932][655]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.46:941][656]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.46:949][657]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.46:957][658]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.46:965][659]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.46:974][660]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.46:982][661]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.46:990][662]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.46:998][663]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:007][664]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:015][665]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:024][666]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:032][667]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:040][668]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:049][669]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:057][670]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:065][671]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:074][672]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:082][673]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:090][674]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:099][675]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:107][676]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:115][677]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:124][678]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:132][679]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:141][680]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:149][681]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:157][682]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:166][683]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:174][684]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:182][685]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:191][686]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:199][687]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:207][688]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:215][689]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:223][690]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:231][691]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:240][692]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:248][693]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:257][694]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:265][695]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:274][696]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:282][697]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:291][698]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:299][699]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:307][700]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:316][701]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:324][702]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:332][703]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:341][704]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:349][705]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:357][706]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:366][707]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:374][708]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:383][709]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:391][710]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:399][711]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:408][712]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:416][713]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:424][714]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:433][715]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:441][716]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:449][717]LogTemp: Display: Move(-1.000000)
+[2023.10.02-20.46.47:458][718]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:466][719]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:474][720]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:482][721]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:491][722]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:499][723]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:507][724]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:516][725]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:524][726]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:532][727]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:541][728]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:549][729]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:558][730]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:566][731]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:575][732]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:583][733]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:590][734]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:599][735]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:607][736]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:615][737]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:624][738]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:633][739]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:641][740]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:649][741]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:658][742]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:666][743]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:674][744]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:683][745]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:691][746]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:699][747]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:708][748]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:716][749]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:725][750]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:733][751]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:741][752]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:750][753]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:758][754]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:766][755]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:774][756]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:782][757]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:791][758]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:799][759]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:807][760]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:816][761]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:824][762]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:832][763]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:841][764]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:849][765]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:857][766]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:866][767]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:874][768]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:882][769]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:890][770]LogTemp: Display: Move(0.000000)
+[2023.10.02-20.46.47:916][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.02-20.46.47:916][770]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2023.10.02-20.46.47:916][770]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.10.02-20.46.47:916][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.02-20.46.47:922][770]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.02-20.46.47:926][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.02-20.46.47:945][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.02-20.46.47:945][770]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2023.10.02-20.46.47:945][770]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.10.02-20.46.47:947][770]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.10.02-20.46.47:953][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.10.02-20.46.47:969][770]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.47:970][770]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.47:970][770]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.47:971][770]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.47:971][770]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.47:971][770]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.47:972][770]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.47:972][770]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.47:972][770]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.47:973][770]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.47:973][770]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.47:973][770]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.47:974][770]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.02-20.46.47:993][771]LogPlayLevel: Display: Destroying online subsystem :Context_18
