@@ -23,7 +23,10 @@ private:
 	class UCameraComponent* Camera;
 
 	void Move(float Value);
-
+	void Turn(float Value);
+	
+	UPROPERTY(EditAnywhere)
+	float Speed = 200.0f;
 public:
 
 	ATank();
