@@ -27,6 +27,10 @@ private:
 	
 	UPROPERTY(EditAnywhere)
 	float Speed = 200.0f;
+
+	UPROPERTY(EditAnywhere)
+	float TurnRate = 100.0f;
+
 public:
 
 	ATank();

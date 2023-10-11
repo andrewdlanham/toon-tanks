@@ -30,11 +30,15 @@ void ATank::Move(float Value)
     //UE_LOG(LogTemp, Display, TEXT("Move(%f)"), Value);
     FVector MoveOffset(0.0f, 0.0f, 0.0f);
     float DeltaTime = UGameplayStatics::GetWorldDeltaSeconds(this);
-    MoveOffset.X = Value * DeltaTime * Speed;
+    MoveOffset.X = Value * Speed * DeltaTime;
     AddActorLocalOffset(MoveOffset, true);
 }
 
 void ATank::Turn(float Value)
 {
     FRotator DeltaRotation = FRotator::ZeroRotator;
+    float DeltaTime = UGameplayStatics::GetWorldDeltaSeconds(this);
+    DeltaRotation.Yaw = Value * TurnRate * DeltaTime;
+
+    AddActorLocalRotation(DeltaRotation, true);
 }
