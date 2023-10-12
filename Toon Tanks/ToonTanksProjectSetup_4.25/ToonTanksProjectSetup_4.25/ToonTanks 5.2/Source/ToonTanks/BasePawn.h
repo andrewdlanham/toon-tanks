@@ -15,9 +15,7 @@ public:
 	// Sets default values for this pawn's properties
 	ABasePawn();
 
-protected:
-	// Called when the game starts or when spawned
-	virtual void BeginPlay() override;
+
 	
 private:
 
@@ -33,9 +31,7 @@ private:
 	UPROPERTY(Category = "Components", meta = (AllowPrivateAccess = "true"), VisibleAnywhere, BlueprintReadOnly)
 	USceneComponent* ProjectileSpawnPoint;
 
-public:	
-	// Called every frame
-	virtual void Tick(float DeltaTime) override;
+
 
 	
 

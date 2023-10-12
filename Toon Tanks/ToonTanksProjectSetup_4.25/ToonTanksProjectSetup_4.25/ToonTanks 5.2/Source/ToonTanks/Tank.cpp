@@ -6,6 +6,7 @@
 #include "Camera/CameraComponent.h"
 #include "Components/InputComponent.h"
 #include "Kismet/GameplayStatics.h"
+#include "DrawDebugHelpers.h"
 
 ATank::ATank()
 {
@@ -23,6 +24,32 @@ void ATank::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
     // Bind Move() to MoveForward axis mapping
     PlayerInputComponent->BindAxis(TEXT("MoveForward"), this, &ATank::Move);
     PlayerInputComponent->BindAxis(TEXT("Turn"), this, &ATank::Turn);
+}
+
+void ATank::Tick(float DeltaTime)
+{
+    Super::Tick(DeltaTime);
+    if (PlayerControllerRef != nullptr) {
+        FHitResult HitResult;
+        PlayerControllerRef->GetHitResultUnderCursor(
+            ECollisionChannel::ECC_Visibility, 
+            false,
+            HitResult);
+        DrawDebugSphere(
+            GetWorld(),
+            HitResult.ImpactPoint,
+            30.f,
+            12,
+            FColor::Green,
+            false,
+            -1.f);
+    }
+}
+
+void ATank::BeginPlay() 
+{
+    Super::BeginPlay();
+    PlayerControllerRef = Cast<APlayerController>(GetController());
 }
 
 void ATank::Move(float Value)
