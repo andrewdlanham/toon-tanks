@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"Z:/toon-tanks/Toon Tanks/Content/Blueprints/Pawns/BP_PawnTurret.uasset",
+				"Z:/toon-tanks/Toon Tanks/Content/Maps/Main.umap",
 				"Z:/toon-tanks/Toon Tanks/ToonTanksProjectSetup_4.25/ToonTanksProjectSetup_4.25/ToonTanks 5.2/Content/Maps/Main.umap",
 				"Z:/toon-tanks/Toon Tanks/ToonTanksProjectSetup_4.25/ToonTanksProjectSetup_4.25/ToonTanks 5.2/Content/Blueprints/Pawns/BP_PawnTank.uasset",
 				"Z:/toon-tanks/Toon Tanks/ToonTanksProjectSetup_4.25/ToonTanksProjectSetup_4.25/ToonTanks 5.2/Content/Blueprints/Pawns/BP_PawnTurret.uasset",

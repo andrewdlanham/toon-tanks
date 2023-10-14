@@ -7,7 +7,7 @@
             "cppStandard": "c++17",
             "intelliSenseMode": "msvc-x64",
             "configurationProvider": "epic.ue",
-            "compileCommands": "Z:\\toon-tanks\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_ToonTanks.json"
+            "compileCommands": "Z:\\toon-tanks\\Toon Tanks\\.vscode\\compileCommands_ToonTanks.json"
         },
         {
             "name": "Win32",
@@ -16,7 +16,7 @@
             "cppStandard": "c++17",
             "intelliSenseMode": "msvc-x64",
             "configurationProvider": "epic.ue",
-            "compileCommands": "Z:\\toon-tanks\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_Default.json"
+            "compileCommands": "Z:\\toon-tanks\\Toon Tanks\\.vscode\\compileCommands_Default.json"
         }
     ],
     "version": 4

@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "ToonTanks",
-			"Path": "Z:\\toon-tanks\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks.Target.cs",
+			"Path": "Z:\\toon-tanks\\Toon Tanks\\Source\\ToonTanks.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "ToonTanksEditor",
-			"Path": "Z:\\toon-tanks\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanksEditor.Target.cs",
+			"Path": "Z:\\toon-tanks\\Toon Tanks\\Source\\ToonTanksEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

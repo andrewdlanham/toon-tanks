@@ -1,57 +1,73 @@
 [
 	{
-		"file": "Z:\\toon-tanks\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\BasePawn.cpp",
+		"file": "Z:\\toon-tanks\\Toon Tanks\\Source\\ToonTanks\\BasePawn.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
-			"@Z:\\toon-tanks\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_ToonTanks\\ToonTanks.255.rsp"
+			"@Z:\\toon-tanks\\Toon Tanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.255.rsp"
 		],
 		"directory": "Z:\\UE_5.2\\Engine\\Source"
 	},
 	{
-		"file": "Z:\\toon-tanks\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\BasePawn.h",
+		"file": "Z:\\toon-tanks\\Toon Tanks\\Source\\ToonTanks\\BasePawn.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
-			"@Z:\\toon-tanks\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_ToonTanks\\ToonTanks.255.rsp"
+			"@Z:\\toon-tanks\\Toon Tanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.255.rsp"
 		],
 		"directory": "Z:\\UE_5.2\\Engine\\Source"
 	},
 	{
-		"file": "Z:\\toon-tanks\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\Tank.cpp",
+		"file": "Z:\\toon-tanks\\Toon Tanks\\Source\\ToonTanks\\Tank.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
-			"@Z:\\toon-tanks\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_ToonTanks\\ToonTanks.255.rsp"
+			"@Z:\\toon-tanks\\Toon Tanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.255.rsp"
 		],
 		"directory": "Z:\\UE_5.2\\Engine\\Source"
 	},
 	{
-		"file": "Z:\\toon-tanks\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\Tank.h",
+		"file": "Z:\\toon-tanks\\Toon Tanks\\Source\\ToonTanks\\Tank.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
-			"@Z:\\toon-tanks\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_ToonTanks\\ToonTanks.255.rsp"
+			"@Z:\\toon-tanks\\Toon Tanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.255.rsp"
 		],
 		"directory": "Z:\\UE_5.2\\Engine\\Source"
 	},
 	{
-		"file": "Z:\\toon-tanks\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\ToonTanks.Build.cs",
+		"file": "Z:\\toon-tanks\\Toon Tanks\\Source\\ToonTanks\\ToonTanks.Build.cs",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
-			"@Z:\\toon-tanks\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_ToonTanks\\ToonTanks.255.rsp"
+			"@Z:\\toon-tanks\\Toon Tanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.255.rsp"
 		],
 		"directory": "Z:\\UE_5.2\\Engine\\Source"
 	},
 	{
-		"file": "Z:\\toon-tanks\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\ToonTanks.cpp",
+		"file": "Z:\\toon-tanks\\Toon Tanks\\Source\\ToonTanks\\ToonTanks.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
-			"@Z:\\toon-tanks\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_ToonTanks\\ToonTanks.255.rsp"
+			"@Z:\\toon-tanks\\Toon Tanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.255.rsp"
 		],
 		"directory": "Z:\\UE_5.2\\Engine\\Source"
 	},
 	{
-		"file": "Z:\\toon-tanks\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\ToonTanks.h",
+		"file": "Z:\\toon-tanks\\Toon Tanks\\Source\\ToonTanks\\ToonTanks.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
-			"@Z:\\toon-tanks\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\.vscode\\compileCommands_ToonTanks\\ToonTanks.255.rsp"
+			"@Z:\\toon-tanks\\Toon Tanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\toon-tanks\\Toon Tanks\\Source\\ToonTanks\\Tower.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\toon-tanks\\Toon Tanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\toon-tanks\\Toon Tanks\\Source\\ToonTanks\\Tower.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\toon-tanks\\Toon Tanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.255.rsp"
 		],
 		"directory": "Z:\\UE_5.2\\Engine\\Source"
 	}

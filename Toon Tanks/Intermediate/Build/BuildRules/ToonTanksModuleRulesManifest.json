@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"Z:\\toon-tanks\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks\\ToonTanks.Build.cs",
-		"Z:\\toon-tanks\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanks.Target.cs",
-		"Z:\\toon-tanks\\Toon Tanks\\ToonTanksProjectSetup_4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.2\\Source\\ToonTanksEditor.Target.cs"
+		"Z:\\toon-tanks\\Toon Tanks\\Source\\ToonTanks\\ToonTanks.Build.cs",
+		"Z:\\toon-tanks\\Toon Tanks\\Source\\ToonTanks.Target.cs",
+		"Z:\\toon-tanks\\Toon Tanks\\Source\\ToonTanksEditor.Target.cs"
 	],
 	"EngineVersion": "5.2.1"
 }

@@ -1,6 +1,5 @@
 "Z:\toon-tanks\Toon Tanks\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks 5.2\Source\ToonTanks\BasePawn.cpp"
 /I .
-/I "Z:\toon-tanks\Toon Tanks\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks 5.2\Source\ToonTanks\Private"
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\UHT
 /I ..\Shaders\Shared
 /I Runtime\Engine\Classes
