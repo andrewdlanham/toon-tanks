@@ -1789,3 +1789,48 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.14-11.14.20:329][833]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.10.14-11.14.20:331][833]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.10.14-11.14.20:358][834]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2023.10.14-11.39.25:343][917]LogSlate: Window 'Project Settings' being destroyed
+[2023.10.14-11.39.25:352][917]LogSlate: Window 'Project Settings' being destroyed
+[2023.10.14-11.44.42:092][244]Candidate modules for hot reload:
+[2023.10.14-11.44.42:092][244]  ToonTanks
+[2023.10.14-11.44.42:108][244]Launching UnrealBuildTool... [Z:/UE_5.2/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=ToonTanks,8733 ToonTanksEditor Win64 Development -Project="Z:/toon-tanks/Toon Tanks/ToonTanks.uproject" "Z:/toon-tanks/Toon Tanks/ToonTanks.uproject"  -IgnoreJunk]
+[2023.10.14-11.44.42:139][244]Warning: Starting HotReload took  0.1s.
+[2023.10.14-11.45.06:941][425]CompilerResultsLog: New page: Compilation - Oct 14, 2023, 3:45:06 AM
+[2023.10.14-11.45.06:941][425]CompilerResultsLog: Using bundled DotNet SDK version: 6.0.302
+[2023.10.14-11.45.06:941][425]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=ToonTanks,8733 ToonTanksEditor Win64 Development -Project="Z:/toon-tanks/Toon Tanks/ToonTanks.uproject" "Z:/toon-tanks/Toon Tanks/ToonTanks.uproject"  -IgnoreJunk
+[2023.10.14-11.45.06:941][425]CompilerResultsLog: Log file: C:\Users\andrewdlanham\AppData\Local\UnrealBuildTool\Log.txt
+[2023.10.14-11.45.06:941][425]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (Z:\toon-tanks).
+[2023.10.14-11.45.06:941][425]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2023.10.14-11.45.06:941][425]CompilerResultsLog:   Running Internal UnrealHeaderTool "Z:\toon-tanks\Toon Tanks\ToonTanks.uproject" "Z:\toon-tanks\Toon Tanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -WarningsAsErrors -installed
+[2023.10.14-11.45.06:941][425]CompilerResultsLog: Total of 0 written
+[2023.10.14-11.45.06:941][425]CompilerResultsLog: Reflection code generated for ToonTanksEditor in 2.9943226 seconds
+[2023.10.14-11.45.06:941][425]CompilerResultsLog: Building ToonTanksEditor...
+[2023.10.14-11.45.06:941][425]CompilerResultsLog: Using Visual Studio 2022 14.37.32824 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.10.14-11.45.06:941][425]CompilerResultsLog: [Upgrade]
+[2023.10.14-11.45.06:941][425]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2023.10.14-11.45.06:941][425]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_0
+[2023.10.14-11.45.06:941][425]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_2;' in ToonTanksEditor.Target.cs.
+[2023.10.14-11.45.06:941][425]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2023.10.14-11.45.06:942][425]CompilerResultsLog: [Upgrade]
+[2023.10.14-11.45.06:942][425]CompilerResultsLog: Determining max actions to execute in parallel (4 physical cores, 8 logical cores)
+[2023.10.14-11.45.06:942][425]CompilerResultsLog:   Executing up to 4 processes, one per physical core
+[2023.10.14-11.45.06:942][425]CompilerResultsLog:   Requested 1.5 GB free memory per action, 3.83 GB available: limiting max parallel actions to 2
+[2023.10.14-11.45.06:942][425]CompilerResultsLog: Building 9 actions with 2 processes...
+[2023.10.14-11.45.06:942][425]CompilerResultsLog: [1/9] Compile [x64] BasePawn.gen.cpp
+[2023.10.14-11.45.06:942][425]CompilerResultsLog: [2/9] Compile [x64] Tower.gen.cpp
+[2023.10.14-11.45.06:942][425]CompilerResultsLog: [3/9] Compile [x64] BasePawn.cpp
+[2023.10.14-11.45.06:942][425]CompilerResultsLog: [4/9] Compile [x64] Tank.cpp
+[2023.10.14-11.45.06:942][425]CompilerResultsLog: [5/9] Compile [x64] Tank.gen.cpp
+[2023.10.14-11.45.06:942][425]CompilerResultsLog: [6/9] Compile [x64] Tower.cpp
+[2023.10.14-11.45.06:942][425]CompilerResultsLog: [7/9] Link [x64] UnrealEditor-ToonTanks-8733.lib
+[2023.10.14-11.45.06:942][425]CompilerResultsLog:    Creating library Z:\toon-tanks\Toon Tanks\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToonTanks\UnrealEditor-ToonTanks-8733.lib and object Z:\toon-tanks\Toon Tanks\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToonTanks\UnrealEditor-ToonTanks-8733.exp
+[2023.10.14-11.45.06:942][425]CompilerResultsLog: [8/9] Link [x64] UnrealEditor-ToonTanks-8733.dll
+[2023.10.14-11.45.06:942][425]CompilerResultsLog:    Creating library Z:\toon-tanks\Toon Tanks\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToonTanks\UnrealEditor-ToonTanks-8733.suppressed.lib and object Z:\toon-tanks\Toon Tanks\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToonTanks\UnrealEditor-ToonTanks-8733.suppressed.exp
+[2023.10.14-11.45.06:942][425]CompilerResultsLog: [9/9] WriteMetadata ToonTanksEditor.target
+[2023.10.14-11.45.06:942][425]CompilerResultsLog: Total time in Parallel executor: 19.42 seconds
+[2023.10.14-11.45.06:942][425]CompilerResultsLog: Total execution time: 24.47 seconds
+[2023.10.14-11.45.06:942][425]LogMainFrame: MainFrame: Module compiling took 24.863 seconds
+[2023.10.14-11.45.06:980][425]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.10.14-11.45.07:236][425]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2023.10.14-11.45.07:291][425]Display: HotReload took 25.2s.
+[2023.10.14-11.45.07:291][425]Display: Reload/Re-instancing Complete: 1 package changed, 3 classes unchanged
