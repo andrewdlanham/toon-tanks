@@ -6,6 +6,7 @@
 #include "BasePawn.h"
 #include "Tower.generated.h"
 
+
 /**
  * 
  */
@@ -28,4 +29,9 @@ private:
 	UPROPERTY(EditAnywhere)
 	float FireRange = 700.f;
 
+	float FireRate = 2.f;
+	FTimerHandle FireRateTimerHandle;
+	void CheckFireCondition();
+	
+	bool InFireRange();
 };
