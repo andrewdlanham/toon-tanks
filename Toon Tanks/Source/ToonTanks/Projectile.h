@@ -4,6 +4,9 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
+#include "GameFramework/ProjectileMovementComponent.h"
+
+// Include generated file last
 #include "Projectile.generated.h"
 
 UCLASS()
@@ -28,5 +31,8 @@ private:
 
 	UPROPERTY(Category = "Components", meta = (AllowPrivateAccess = "true"), VisibleAnywhere, BlueprintReadOnly)
 	UStaticMeshComponent* ProjectileMesh;
+
+	UPROPERTY(Category = "Components", VisibleAnywhere)
+	UProjectileMovementComponent* ProjectileMovementComponent;
 
 };
