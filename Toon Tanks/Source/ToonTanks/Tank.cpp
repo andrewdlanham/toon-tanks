@@ -33,9 +33,9 @@ void ATank::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 void ATank::Tick(float DeltaTime)
 {
     Super::Tick(DeltaTime);
-    if (PlayerControllerRef != nullptr) {
+    if (TankPlayerController != nullptr) {
         FHitResult HitResult;
-        PlayerControllerRef->GetHitResultUnderCursor(
+        TankPlayerController->GetHitResultUnderCursor(
             ECollisionChannel::ECC_Visibility, 
             false,
             HitResult);
@@ -54,7 +54,7 @@ void ATank::Tick(float DeltaTime)
 void ATank::BeginPlay() 
 {
     Super::BeginPlay();
-    PlayerControllerRef = Cast<APlayerController>(GetController());
+    TankPlayerController = Cast<APlayerController>(GetController());
 }
 
 void ATank::Move(float Value)
@@ -73,4 +73,11 @@ void ATank::Turn(float Value)
     DeltaRotation.Yaw = Value * TurnRate * DeltaTime;
 
     AddActorLocalRotation(DeltaRotation, true);
+}
+
+void ATank::HandleDestruction()
+{
+    Super::HandleDestruction();
+    SetActorHiddenInGame(true);
+    SetActorTickEnabled(false);
 }

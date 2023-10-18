@@ -88,6 +88,22 @@
 		"directory": "Z:\\UE_5.2\\Engine\\Source"
 	},
 	{
+		"file": "Z:\\toon-tanks\\Toon Tanks\\Source\\ToonTanks\\ToonTanksGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\toon-tanks\\Toon Tanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "Z:\\toon-tanks\\Toon Tanks\\Source\\ToonTanks\\ToonTanksGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@Z:\\toon-tanks\\Toon Tanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.255.rsp"
+		],
+		"directory": "Z:\\UE_5.2\\Engine\\Source"
+	},
+	{
 		"file": "Z:\\toon-tanks\\Toon Tanks\\Source\\ToonTanks\\Tower.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
