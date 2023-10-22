@@ -12,6 +12,7 @@
 				"Z:/toon-tanks/Toon Tanks/Content/BP_ToonTanksGameMode.uasset",
 				"Z:/toon-tanks/Toon Tanks/Content/GameMode/BP_ToonTanksGameMode.uasset",
 				"Z:/toon-tanks/Toon Tanks/Content/PlayerController/BP_ToonTanksPlayerController.uasset",
+				"Z:/toon-tanks/Toon Tanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset",
 				"Z:/toon-tanks/Toon Tanks/ToonTanksProjectSetup_4.25/ToonTanksProjectSetup_4.25/ToonTanks 5.2/Content/Maps/Main.umap",
 				"Z:/toon-tanks/Toon Tanks/ToonTanksProjectSetup_4.25/ToonTanksProjectSetup_4.25/ToonTanks 5.2/Content/Blueprints/Pawns/BP_PawnTank.uasset",
 				"Z:/toon-tanks/Toon Tanks/ToonTanksProjectSetup_4.25/ToonTanksProjectSetup_4.25/ToonTanks 5.2/Content/Blueprints/Pawns/BP_PawnTurret.uasset",

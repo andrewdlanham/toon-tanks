@@ -1238,3 +1238,322 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.22-22.00.09:838][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
 [2023.10.22-22.00.09:944][796]Display: HotReload took 43.8s.
 [2023.10.22-22.00.09:944][796]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed, 6 classes unchanged, 2 functions remapped
+[2023.10.22-22.16.11:073][745]Candidate modules for hot reload:
+[2023.10.22-22.16.11:073][745]  ToonTanks
+[2023.10.22-22.16.11:093][745]Launching UnrealBuildTool... [Z:/UE_5.2/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=ToonTanks,3210 ToonTanksEditor Win64 Development -Project="Z:/toon-tanks/Toon Tanks/ToonTanks.uproject" "Z:/toon-tanks/Toon Tanks/ToonTanks.uproject"  -IgnoreJunk]
+[2023.10.22-22.16.11:128][745]Warning: Starting HotReload took  0.1s.
+[2023.10.22-22.16.29:604][460]CompilerResultsLog: New page: Compilation - Oct 22, 2023, 2:16:29 PM
+[2023.10.22-22.16.29:605][460]CompilerResultsLog: Using bundled DotNet SDK version: 6.0.302
+[2023.10.22-22.16.29:605][460]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=ToonTanks,3210 ToonTanksEditor Win64 Development -Project="Z:/toon-tanks/Toon Tanks/ToonTanks.uproject" "Z:/toon-tanks/Toon Tanks/ToonTanks.uproject"  -IgnoreJunk
+[2023.10.22-22.16.29:605][460]CompilerResultsLog: Log file: C:\Users\andrewdlanham\AppData\Local\UnrealBuildTool\Log.txt
+[2023.10.22-22.16.29:605][460]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (Z:\toon-tanks).
+[2023.10.22-22.16.29:605][460]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2023.10.22-22.16.29:605][460]CompilerResultsLog:   Running Internal UnrealHeaderTool "Z:\toon-tanks\Toon Tanks\ToonTanks.uproject" "Z:\toon-tanks\Toon Tanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -WarningsAsErrors -installed
+[2023.10.22-22.16.29:605][460]CompilerResultsLog: Total of 3 written
+[2023.10.22-22.16.29:605][460]CompilerResultsLog: Reflection code generated for ToonTanksEditor in 3.0606938 seconds
+[2023.10.22-22.16.29:605][460]CompilerResultsLog: Building ToonTanksEditor...
+[2023.10.22-22.16.29:606][460]CompilerResultsLog: Using Visual Studio 2022 14.37.32824 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.10.22-22.16.29:606][460]CompilerResultsLog: [Upgrade]
+[2023.10.22-22.16.29:606][460]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2023.10.22-22.16.29:606][460]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_0
+[2023.10.22-22.16.29:606][460]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_2;' in ToonTanksEditor.Target.cs.
+[2023.10.22-22.16.29:606][460]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2023.10.22-22.16.29:606][460]CompilerResultsLog: [Upgrade]
+[2023.10.22-22.16.29:606][460]CompilerResultsLog: Determining max actions to execute in parallel (4 physical cores, 8 logical cores)
+[2023.10.22-22.16.29:606][460]CompilerResultsLog:   Executing up to 4 processes, one per physical core
+[2023.10.22-22.16.29:606][460]CompilerResultsLog:   Requested 1.5 GB free memory per action, 3.51 GB available: limiting max parallel actions to 2
+[2023.10.22-22.16.29:606][460]CompilerResultsLog: Building 7 actions with 2 processes...
+[2023.10.22-22.16.29:606][460]CompilerResultsLog: [1/7] Compile [x64] HealthComponent.cpp
+[2023.10.22-22.16.29:606][460]CompilerResultsLog: [2/7] Compile [x64] ToonTanksGameMode.cpp
+[2023.10.22-22.16.29:606][460]CompilerResultsLog: [3/7] Compile [x64] ToonTanks.init.gen.cpp
+[2023.10.22-22.16.29:606][460]CompilerResultsLog: [4/7] Compile [x64] ToonTanksGameMode.gen.cpp
+[2023.10.22-22.16.29:606][460]CompilerResultsLog: [5/7] Link [x64] UnrealEditor-ToonTanks-3210.lib
+[2023.10.22-22.16.29:606][460]CompilerResultsLog:    Creating library Z:\toon-tanks\Toon Tanks\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToonTanks\UnrealEditor-ToonTanks-3210.lib and object Z:\toon-tanks\Toon Tanks\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToonTanks\UnrealEditor-ToonTanks-3210.exp
+[2023.10.22-22.16.29:606][460]CompilerResultsLog: [6/7] Link [x64] UnrealEditor-ToonTanks-3210.dll
+[2023.10.22-22.16.29:606][460]CompilerResultsLog:    Creating library Z:\toon-tanks\Toon Tanks\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToonTanks\UnrealEditor-ToonTanks-3210.suppressed.lib and object Z:\toon-tanks\Toon Tanks\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToonTanks\UnrealEditor-ToonTanks-3210.suppressed.exp
+[2023.10.22-22.16.29:606][460]CompilerResultsLog: [7/7] WriteMetadata ToonTanksEditor.target
+[2023.10.22-22.16.29:606][460]CompilerResultsLog: Total time in Parallel executor: 12.25 seconds
+[2023.10.22-22.16.29:606][460]CompilerResultsLog: Total execution time: 18.03 seconds
+[2023.10.22-22.16.29:606][460]LogMainFrame: MainFrame: Module compiling took 18.550 seconds
+[2023.10.22-22.16.29:635][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.10.22-22.16.29:908][460]LogClass: UPackage /Script/ToonTanks Reload.
+[2023.10.22-22.16.29:908][460]LogClass: UClass ToonTanksGameMode Reload.
+[2023.10.22-22.16.29:918][460]LogClass: Could not find existing class ToonTanksGameMode in package /Script/ToonTanks for reload, assuming new or modified class
+[2023.10.22-22.16.29:946][460]Re-instancing ToonTanksGameMode after reload.
+[2023.10.22-22.16.30:033][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.10.22-22.16.30:093][460]Display: HotReload took 19.0s.
+[2023.10.22-22.16.30:093][460]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed, 6 classes unchanged, 2 functions remapped
+[2023.10.22-22.16.32:035][656]LogSlate: Took 0.011803 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.10.22-22.16.36:591][ 42]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameMode/BP_ToonTanksGameMode.BP_ToonTanksGameMode
+[2023.10.22-22.16.36:612][ 42]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.22-22.16.36:628][ 42]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.22-22.16.38:597][ 42]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2023.10.22-22.16.41:538][ 42]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049691s
+[2023.10.22-22.16.42:312][ 42]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.005864s (0.825221s overbudget)
+[2023.10.22-22.16.52:135][125]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.10.22-22.16.52:138][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.22-22.16.52:169][125]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameMode/BP_ToonTanksGameMode.BP_ToonTanksGameMode
+[2023.10.22-22.16.52:169][125]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.22-22.16.52:170][125]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.22-22.16.54:170][125]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2023.10.22-22.16.54:437][125]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.004964s (0.267309s overbudget)
+[2023.10.22-22.16.54:512][125]LogSlate: Took 0.008072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.10.22-22.17.16:131][255]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.10.22-22.17.16:131][255]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.22-22.17.16:185][255]LogViewport: Scene viewport resized to 1515x929, mode Windowed.
+[2023.10.22-22.17.16:250][256]LogViewport: Scene viewport resized to 1515x903, mode Windowed.
+[2023.10.22-22.17.16:321][257]LogViewport: Scene viewport resized to 1515x902, mode Windowed.
+[2023.10.22-22.17.17:677][386]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameMode/BP_ToonTanksGameMode.BP_ToonTanksGameMode
+[2023.10.22-22.17.17:678][386]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.22-22.17.17:678][386]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.22-22.17.54:721][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2023.10.22-22.17.54:723][ 16]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Main' took 0.053
+[2023.10.22-22.17.54:726][ 16]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameMode/BP_ToonTanksGameMode] ([2] browsable assets)...
+[2023.10.22-22.17.54:726][ 16]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameMode/BP_ToonTanksGameMode]
+[2023.10.22-22.17.54:726][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/BP_ToonTanksGameMode" FILE="../../../../toon-tanks/Toon Tanks/Saved/Autosaves/Game/GameMode/BP_ToonTanksGameMode_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.10.22-22.17.54:750][ 16]LogPackageLocalizationCache: Processed 41 localized package path(s) for 1 prioritized culture(s) in 0.022216 seconds
+[2023.10.22-22.17.54:762][ 16]LogSerialization: UsePackageTrailer: 'true'
+[2023.10.22-22.17.54:767][ 16]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GameMode/BP_ToonTanksGameMode_Auto1
+[2023.10.22-22.17.54:767][ 16]LogSavePackage: Moving '../../../../toon-tanks/Toon Tanks/Saved/BP_ToonTanksGameMode_Auto1F8595E9E499A28AF93D89AB436AE99F1.tmp' to '../../../../toon-tanks/Toon Tanks/Saved/Autosaves/Game/GameMode/BP_ToonTanksGameMode_Auto1.uasset'
+[2023.10.22-22.17.54:777][ 16]LogFileHelpers: Auto-saving content packages took 0.054
+[2023.10.22-22.18.28:195][554]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.10.22-22.18.28:208][554]LogContentBrowser: Creating deferred item: NewFolder
+[2023.10.22-22.18.28:220][555]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.10.22-22.18.30:667][803]LogContentBrowser: Attempting asset rename: NewFolder -> Widgets
+[2023.10.22-22.18.30:676][803]LogContentBrowser: End creating deferred item NewFolder
+[2023.10.22-22.19.00:058][561]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2023.10.22-22.19.00:076][561]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.10.22-22.19.00:084][561]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.10.22-22.19.00:125][563]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.10.22-22.19.13:330][731]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_StartGameWidget
+[2023.10.22-22.19.13:375][731]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.10.22-22.19.14:583][835]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Widgets/WBP_StartGameWidget.WBP_StartGameWidget
+[2023.10.22-22.19.14:584][835]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.22-22.19.14:584][835]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.22-22.19.14:601][835]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.22-22.19.14:601][835]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.22-22.19.14:616][835]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.10.22-22.19.16:620][835]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.10.22-22.19.16:643][835]LogSlate: Took 0.021885 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.10.22-22.20.37:428][463]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.22-22.20.37:514][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WBP_StartGameWidget" FILE="../../../../toon-tanks/Toon Tanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset" SILENT=true
+[2023.10.22-22.20.37:523][463]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WBP_StartGameWidget
+[2023.10.22-22.20.37:523][463]LogSavePackage: Moving '../../../../toon-tanks/Toon Tanks/Saved/WBP_StartGameWidgetB4E1170A41FEBC9FD3E6F88F71344F8C.tmp' to '../../../../toon-tanks/Toon Tanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset'
+[2023.10.22-22.20.37:546][463]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms
+[2023.10.22-22.20.37:561][463]AssetCheck: New page: Asset Save: WBP_StartGameWidget
+[2023.10.22-22.20.37:561][463]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WBP_StartGameWidget.WBP_StartGameWidget
+[2023.10.22-22.20.56:521][197]LogDerivedDataCache: C:/Users/andrewdlanham/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:36.950 and deleted 0 files with total size 0 MiB and 1 empty folders. Scanned 18636 files in 21707 folders with total size 2777 MiB.
+[2023.10.22-22.22.14:525][643]LogEditorTransaction: Undo Edit Right
+[2023.10.22-22.22.14:661][643]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.14:662][643]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.14:664][643]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.14:665][643]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.14:666][643]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.14:667][643]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.14:668][643]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.14:669][643]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.14:670][643]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.14:670][643]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.14:671][643]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.14:672][643]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.14:672][643]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.23:000][809]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.22-22.22.23:072][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Widgets/WBP_StartGameWidget" FILE="../../../../toon-tanks/Toon Tanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset" SILENT=true
+[2023.10.22-22.22.23:082][809]LogSavePackage: Moving output files for package: /Game/Blueprints/Widgets/WBP_StartGameWidget
+[2023.10.22-22.22.23:083][809]LogSavePackage: Moving '../../../../toon-tanks/Toon Tanks/Saved/WBP_StartGameWidget6F2799E6402AF5D49A7DA1B943D23066.tmp' to '../../../../toon-tanks/Toon Tanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset'
+[2023.10.22-22.22.23:093][809]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 212 ms)
+[2023.10.22-22.22.23:106][809]AssetCheck: New page: Asset Save: WBP_StartGameWidget
+[2023.10.22-22.22.23:106][809]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/Widgets/WBP_StartGameWidget.WBP_StartGameWidget
+[2023.10.22-22.22.25:265][961]LogSlate: Window 'WBP_StartGameWidget' being destroyed
+[2023.10.22-22.22.41:942][693]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.22-22.22.42:004][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/BP_ToonTanksGameMode" FILE="../../../../toon-tanks/Toon Tanks/Content/GameMode/BP_ToonTanksGameMode.uasset" SILENT=true
+[2023.10.22-22.22.42:012][693]LogSavePackage: Moving output files for package: /Game/GameMode/BP_ToonTanksGameMode
+[2023.10.22-22.22.42:012][693]LogSavePackage: Moving '../../../../toon-tanks/Toon Tanks/Saved/BP_ToonTanksGameMode128FFA9B4DCC09770F96BAA310701E15.tmp' to '../../../../toon-tanks/Toon Tanks/Content/GameMode/BP_ToonTanksGameMode.uasset'
+[2023.10.22-22.22.42:024][693]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 294 ms)
+[2023.10.22-22.22.42:041][693]AssetCheck: New page: Asset Save: BP_ToonTanksGameMode
+[2023.10.22-22.22.42:042][693]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GameMode/BP_ToonTanksGameMode.BP_ToonTanksGameMode
+[2023.10.22-22.22.44:240][910]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.22-22.22.44:277][910]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.10.22-22.22.44:279][910]LogPlayLevel: [PlayLevel] Compiling BP_ToonTanksGameMode before play...
+[2023.10.22-22.22.44:316][910]LogPlayLevel: [PlayLevel] Compiling WBP_StartGameWidget before play...
+[2023.10.22-22.22.44:401][910]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2023.10.22-22.22.44:404][910]LogPlayLevel: PlayLevel: Blueprint regeneration took 143 ms (2 blueprints)
+[2023.10.22-22.22.44:404][910]PIE: New page: PIE session: Main (Oct 22, 2023, 2:22:44 PM)
+[2023.10.22-22.22.44:574][910]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.10.22-22.22.44:574][910]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.10.22-22.22.44:575][910]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2023.10.22-22.22.44:593][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017556s)
+[2023.10.22-22.22.44:593][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.017666s)
+[2023.10.22-22.22.44:595][910]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.22-22.22.44:597][910]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.22-22.22.44:600][910]LogAIModule: Creating AISystem for world Main
+[2023.10.22-22.22.44:605][910]LogPlayLevel: PIE: World Init took: (0.011741s)
+[2023.10.22-22.22.44:644][910]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2023.10.22-22.22.44:648][910]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.10.22-22.22.44:650][910]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.22-22.22.44:650][910]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.22-22.22.44:650][910]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.22-22.22.44:650][910]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.22-22.22.44:650][910]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.22-22.22.44:650][910]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.22-22.22.44:650][910]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.22-22.22.44:650][910]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.22-22.22.44:652][910]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.22-22.22.44:652][910]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.22-22.22.44:652][910]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.22-22.22.44:659][910]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.22-22.22.44:750][910]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.10.22-22.22.44:751][910]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.22-22.22.44:752][910]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.22-22.22.44:752][910]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.22-22.22.44:757][910]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.10.22-22.22.44:757][910]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.10.22-22.22.44:760][910]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.10.22-22.22.44:761][910]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.10.22-22.22.44:761][910]LogInit: FAudioDevice initialized with ID 2.
+[2023.10.22-22.22.44:761][910]LogAudio: Display: Audio Device (ID: 2) registered with world 'Main'.
+[2023.10.22-22.22.44:761][910]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2023.10.22-22.22.44:780][910]LogLoad: Game class is 'BP_ToonTanksGameMode_C'
+[2023.10.22-22.22.44:797][910]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.10.22-18.22.44
+[2023.10.22-22.22.44:806][910]LogWorld: Bringing up level for play took: 0.024490
+[2023.10.22-22.22.44:813][910]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2023.10.22-22.22.44:861][910]PIE: Server logged in
+[2023.10.22-22.22.44:863][910]PIE: Play in editor total start time 0.608 seconds.
+[2023.10.22-22.22.44:914][910]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.44:916][910]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.44:917][910]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.44:918][910]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.44:919][910]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.44:920][910]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.44:921][910]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.44:923][910]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.44:924][910]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.44:925][910]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.44:927][910]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.44:928][910]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.44:930][910]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.49:345][343]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.50:353][443]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.51:360][540]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.52:236][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.22-22.22.52:236][624]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2023.10.22-22.22.52:238][624]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.10.22-22.22.52:239][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.22-22.22.52:301][624]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.22-22.22.52:309][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.22-22.22.52:348][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.22-22.22.52:349][624]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2023.10.22-22.22.52:349][624]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.10.22-22.22.52:352][624]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.10.22-22.22.52:418][624]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2023.10.22-22.22.52:459][624]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.52:460][624]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.52:460][624]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.52:462][624]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.52:463][624]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.52:464][624]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.52:465][624]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.52:466][624]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.52:467][624]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.52:468][624]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.52:468][624]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.52:469][624]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.52:470][624]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.22.52:478][625]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.10.22-22.23.25:214][456]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.22-22.23.25:271][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/BP_ToonTanksGameMode" FILE="../../../../toon-tanks/Toon Tanks/Content/GameMode/BP_ToonTanksGameMode.uasset" SILENT=true
+[2023.10.22-22.23.25:286][456]LogSavePackage: Moving output files for package: /Game/GameMode/BP_ToonTanksGameMode
+[2023.10.22-22.23.25:287][456]LogSavePackage: Moving '../../../../toon-tanks/Toon Tanks/Saved/BP_ToonTanksGameMode5B462E6446A78841600C44910059584C.tmp' to '../../../../toon-tanks/Toon Tanks/Content/GameMode/BP_ToonTanksGameMode.uasset'
+[2023.10.22-22.23.25:298][456]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 379 ms)
+[2023.10.22-22.23.25:319][456]AssetCheck: New page: Asset Save: BP_ToonTanksGameMode
+[2023.10.22-22.23.25:319][456]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GameMode/BP_ToonTanksGameMode.BP_ToonTanksGameMode
+[2023.10.22-22.23.28:938][813]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.22-22.23.28:952][813]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.10.22-22.23.28:953][813]LogPlayLevel: [PlayLevel] Compiling BP_ToonTanksGameMode before play...
+[2023.10.22-22.23.29:015][813]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2023.10.22-22.23.29:016][813]LogPlayLevel: PlayLevel: Blueprint regeneration took 65 ms (1 blueprints)
+[2023.10.22-22.23.29:016][813]PIE: New page: PIE session: Main (Oct 22, 2023, 2:23:29 PM)
+[2023.10.22-22.23.29:017][813]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2023.10.22-22.23.29:025][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008527s)
+[2023.10.22-22.23.29:025][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.008609s)
+[2023.10.22-22.23.29:025][813]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.22-22.23.29:026][813]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.22-22.23.29:027][813]LogAIModule: Creating AISystem for world Main
+[2023.10.22-22.23.29:027][813]LogPlayLevel: PIE: World Init took: (0.001826s)
+[2023.10.22-22.23.29:066][813]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2023.10.22-22.23.29:067][813]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.10.22-22.23.29:067][813]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.22-22.23.29:067][813]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.22-22.23.29:067][813]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.22-22.23.29:067][813]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.22-22.23.29:067][813]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.22-22.23.29:067][813]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.22-22.23.29:067][813]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.22-22.23.29:067][813]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.22-22.23.29:068][813]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.22-22.23.29:068][813]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.22-22.23.29:068][813]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.22-22.23.29:071][813]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.22-22.23.29:142][813]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.10.22-22.23.29:143][813]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.22-22.23.29:143][813]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.22-22.23.29:143][813]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.22-22.23.29:146][813]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.10.22-22.23.29:146][813]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.10.22-22.23.29:149][813]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.10.22-22.23.29:149][813]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.10.22-22.23.29:149][813]LogInit: FAudioDevice initialized with ID 3.
+[2023.10.22-22.23.29:149][813]LogAudio: Display: Audio Device (ID: 3) registered with world 'Main'.
+[2023.10.22-22.23.29:149][813]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2023.10.22-22.23.29:154][813]LogLoad: Game class is 'BP_ToonTanksGameMode_C'
+[2023.10.22-22.23.29:156][813]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.10.22-18.23.29
+[2023.10.22-22.23.29:156][813]LogWorld: Bringing up level for play took: 0.002543
+[2023.10.22-22.23.29:160][813]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2023.10.22-22.23.29:163][813]PIE: Server logged in
+[2023.10.22-22.23.29:164][813]PIE: Play in editor total start time 0.213 seconds.
+[2023.10.22-22.23.29:221][813]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.23.29:221][813]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.23.29:223][813]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.23.29:224][813]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.23.29:225][813]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.23.29:226][813]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.23.29:227][813]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.23.29:228][813]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.23.29:229][813]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.23.29:230][813]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.23.29:231][813]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.23.29:232][813]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.23.29:233][813]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.23.34:448][191]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.23.35:456][285]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.23.36:464][382]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.23.36:465][382]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.23.36:466][382]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.23.36:467][382]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.23.36:468][382]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.23.37:468][477]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.23.37:855][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.22-22.23.37:855][512]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2023.10.22-22.23.37:855][512]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.10.22-22.23.37:856][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.22-22.23.37:861][512]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.22-22.23.37:872][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.22-22.23.37:908][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.22-22.23.37:908][512]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2023.10.22-22.23.37:909][512]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.10.22-22.23.37:912][512]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.10.22-22.23.37:929][512]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2023.10.22-22.23.37:955][512]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.23.37:956][512]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.23.37:957][512]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.23.37:958][512]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.23.37:959][512]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.23.37:961][512]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.23.37:962][512]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.23.37:963][512]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.23.37:964][512]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.23.37:965][512]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.23.37:966][512]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.23.37:967][512]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.23.37:968][512]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.22-22.23.37:975][513]LogPlayLevel: Display: Destroying online subsystem :Context_7

@@ -14,8 +14,35 @@ void EmptyLinkFunctionForGeneratedCodeToonTanksGameMode() {}
 	TOONTANKS_API UClass* Z_Construct_UClass_AToonTanksGameMode_NoRegister();
 	UPackage* Z_Construct_UPackage__Script_ToonTanks();
 // End Cross Module References
+	static FName NAME_AToonTanksGameMode_StartGame = FName(TEXT("StartGame"));
+	void AToonTanksGameMode::StartGame()
+	{
+		ProcessEvent(FindFunctionChecked(NAME_AToonTanksGameMode_StartGame),NULL);
+	}
 	void AToonTanksGameMode::StaticRegisterNativesAToonTanksGameMode()
 	{
+	}
+	struct Z_Construct_UFunction_AToonTanksGameMode_StartGame_Statics
+	{
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UECodeGen_Private::FFunctionParams FuncParams;
+	};
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_AToonTanksGameMode_StartGame_Statics::Function_MetaDataParams[] = {
+		{ "ModuleRelativePath", "ToonTanksGameMode.h" },
+	};
+#endif
+	const UECodeGen_Private::FFunctionParams Z_Construct_UFunction_AToonTanksGameMode_StartGame_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_AToonTanksGameMode, nullptr, "StartGame", nullptr, nullptr, 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x08080800, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_AToonTanksGameMode_StartGame_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_AToonTanksGameMode_StartGame_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_AToonTanksGameMode_StartGame()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UECodeGen_Private::ConstructUFunction(&ReturnFunction, Z_Construct_UFunction_AToonTanksGameMode_StartGame_Statics::FuncParams);
+		}
+		return ReturnFunction;
 	}
 	IMPLEMENT_CLASS_NO_AUTO_REGISTRATION(AToonTanksGameMode);
 	UClass* Z_Construct_UClass_AToonTanksGameMode_NoRegister()
@@ -25,6 +52,7 @@ void EmptyLinkFunctionForGeneratedCodeToonTanksGameMode() {}
 	struct Z_Construct_UClass_AToonTanksGameMode_Statics
 	{
 		static UObject* (*const DependentSingletons[])();
+		static const FClassFunctionLinkInfo FuncInfo[];
 #if WITH_METADATA
 		static const UECodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
@@ -34,6 +62,9 @@ void EmptyLinkFunctionForGeneratedCodeToonTanksGameMode() {}
 	UObject* (*const Z_Construct_UClass_AToonTanksGameMode_Statics::DependentSingletons[])() = {
 		(UObject* (*)())Z_Construct_UClass_AGameModeBase,
 		(UObject* (*)())Z_Construct_UPackage__Script_ToonTanks,
+	};
+	const FClassFunctionLinkInfo Z_Construct_UClass_AToonTanksGameMode_Statics::FuncInfo[] = {
+		{ &Z_Construct_UFunction_AToonTanksGameMode_StartGame, "StartGame" }, // 2945587430
 	};
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AToonTanksGameMode_Statics::Class_MetaDataParams[] = {
@@ -52,11 +83,11 @@ void EmptyLinkFunctionForGeneratedCodeToonTanksGameMode() {}
 		"Game",
 		&StaticCppClassTypeInfo,
 		DependentSingletons,
-		nullptr,
+		FuncInfo,
 		nullptr,
 		nullptr,
 		UE_ARRAY_COUNT(DependentSingletons),
-		0,
+		UE_ARRAY_COUNT(FuncInfo),
 		0,
 		0,
 		0x009002ACu,
@@ -82,9 +113,9 @@ void EmptyLinkFunctionForGeneratedCodeToonTanksGameMode() {}
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
 	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_toon_tanks_Toon_Tanks_Source_ToonTanks_ToonTanksGameMode_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_AToonTanksGameMode, AToonTanksGameMode::StaticClass, TEXT("AToonTanksGameMode"), &Z_Registration_Info_UClass_AToonTanksGameMode, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AToonTanksGameMode), 1264362526U) },
+		{ Z_Construct_UClass_AToonTanksGameMode, AToonTanksGameMode::StaticClass, TEXT("AToonTanksGameMode"), &Z_Registration_Info_UClass_AToonTanksGameMode, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AToonTanksGameMode), 636909944U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_toon_tanks_Toon_Tanks_Source_ToonTanks_ToonTanksGameMode_h_2642665815(TEXT("/Script/ToonTanks"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_toon_tanks_Toon_Tanks_Source_ToonTanks_ToonTanksGameMode_h_222262520(TEXT("/Script/ToonTanks"),
 		Z_CompiledInDeferFile_FID_toon_tanks_Toon_Tanks_Source_ToonTanks_ToonTanksGameMode_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_toon_tanks_Toon_Tanks_Source_ToonTanks_ToonTanksGameMode_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
