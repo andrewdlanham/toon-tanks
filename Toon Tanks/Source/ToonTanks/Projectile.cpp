@@ -5,6 +5,7 @@
 #include "GameFramework/ProjectileMovementComponent.h"
 #include "Kismet/GameplayStatics.h"
 #include "GameFramework/DamageType.h"
+#include "Particles/ParticleSystemComponent.h"
 
 
 // Sets default values
@@ -18,6 +19,10 @@ AProjectile::AProjectile()
 	ProjectileMovementComponent = CreateDefaultSubobject<UProjectileMovementComponent>(TEXT("ProjectileMovementComponent"));
 	ProjectileMovementComponent->InitialSpeed = 5000.f;
 	ProjectileMovementComponent->MaxSpeed = 5000.f;
+
+	SmokeTrail = CreateDefaultSubobject<UParticleSystemComponent>(TEXT("SmokeTrail"));
+	SmokeTrail->SetupAttachment(RootComponent);
+
 }
 
 // Called when the game starts or when spawned
@@ -45,9 +50,10 @@ void AProjectile::OnHit(UPrimitiveComponent* HitComp, AActor* OtherActor,
 
 	if (OtherActor && OtherActor != this && OtherActor != MyOwner) {
 		UGameplayStatics::ApplyDamage(OtherActor, Damage, MyOwnerInstigator, this, DamageTypeClass);
-		Destroy();
+		UGameplayStatics::SpawnEmitterAtLocation(this, HitParticles, GetActorLocation(), GetActorRotation());
+		
 	}
 
-	
+	Destroy();
 	
 }

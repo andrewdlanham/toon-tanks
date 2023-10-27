@@ -41,6 +41,7 @@ private:
 	UPROPERTY(EditDefaultsOnly)
 	TSubclassOf<class AProjectile> ProjectileClass;
 
-	
+	UPROPERTY(VisibleAnywhere)
+	class UParticleSystem* ExplosionParticles;
 
 };
