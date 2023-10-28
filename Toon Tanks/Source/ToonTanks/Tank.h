@@ -53,4 +53,6 @@ public:
 
 	APlayerController* GetTankPlayerController() const {return TankPlayerController;}
 
+	bool bAlive = true;
+
 };
