@@ -44,4 +44,7 @@ private:
 	UPROPERTY(VisibleAnywhere)
 	class UParticleSystem* ExplosionParticles;
 
+	UPROPERTY(EditAnywhere)
+	class USoundBase* DeathSound;
+
 };
