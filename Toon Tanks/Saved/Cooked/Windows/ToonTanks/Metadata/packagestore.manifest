@@ -1297,6 +1297,10 @@
 			"ChunkId": "276fd421ab8f392d00000002"
 		},
 		{
+			"Path": "ToonTanks/Content/Maps/Screenshots.umap",
+			"ChunkId": "abb74167a9083bb600000001"
+		},
+		{
 			"Path": "ToonTanks/Content/PlayerController/BP_ToonTanksPlayerController.uasset",
 			"ChunkId": "5c1041ee9122346600000001"
 		}
@@ -3010,6 +3014,12 @@
 			],
 			"BulkDataChunkIds": [
 				"276fd421ab8f392d00000002"
+			]
+		},
+		{
+			"Name": "/Game/Maps/Screenshots",
+			"ExportBundleChunkIds": [
+				"abb74167a9083bb600000001"
 			]
 		},
 		{
