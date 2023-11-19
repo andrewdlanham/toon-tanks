@@ -1,0 +1,36 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "z:\\toon-tanks\\toon tanks\\source\\toontanks\\projectile.cpp",
+        "ProvidedModule": "",
+        "PCH": "z:\\toon-tanks\\toon tanks\\intermediate\\build\\win64\\x64\\toontanks\\shipping\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "z:\\toon-tanks\\toon tanks\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\toontanks\\definitions.toontanks.h",
+            "z:\\toon-tanks\\toon tanks\\source\\toontanks\\projectile.h",
+            "z:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\projectilemovementcomponent.h",
+            "z:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
+            "z:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\movementcomponent.generated.h",
+            "z:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\projectilemovementcomponent.generated.h",
+            "z:\\toon-tanks\\toon tanks\\intermediate\\build\\win64\\unrealgame\\inc\\toontanks\\uht\\projectile.generated.h",
+            "z:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "z:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "z:\\ue_5.2\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "z:\\ue_5.2\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "z:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "z:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "z:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\dialoguetypes.generated.h",
+            "z:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "z:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
+            "z:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\gameplaystatics.generated.h",
+            "z:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\particles\\particlesystemcomponent.h",
+            "z:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\particles\\particlesystem.h",
+            "z:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\particles\\particleperfstats.h",
+            "z:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\particlesystem.generated.h",
+            "z:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\particles\\emitter.h",
+            "z:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\emitter.generated.h",
+            "z:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\particlesystemcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -678,9 +678,9 @@ Engine:/Script/AndroidFileServerEditor.AndroidFileServerRuntimeSettings:bReportS
 Engine:/Script/AndroidFileServerEditor.AndroidFileServerRuntimeSettings:ConnectionType:0=USBOnly
 Engine:/Script/AndroidFileServerEditor.AndroidFileServerRuntimeSettings:bUseManualIPAddress:0=False
 Engine:/Script/AndroidFileServerEditor.AndroidFileServerRuntimeSettings:ManualIPAddress:0=
-Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:StagingDirectory:0=(Path="Z/build\'")
+Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:StagingDirectory:0=(Path="Z/build")
+Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformBuildConfig:0=(("Windows", PPBC_Shipping))
 Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:LaunchOnTarget:0=
-Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformBuildConfig:0=()
 Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformTargetFlavorName:0=(("Android", "Android_ASTC"))
 Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformBuildTarget:0=()
 Game:Internationalization:LocalizationPaths:0=%GAMEDIR%Content/Localization/Game
@@ -1442,10 +1442,10 @@ OverlappingVerticeDetectionVer:612FBE52DA53400B910D4F919FB1857C=1
 VisualLogger:A4237A36CAEA41C98FA218F858681BF3=5
 VirtualTextureBuiltDataVersion:804E3F7570884B49A4D68C063C7EB6DC=5
 WorldSettingVer:1ED048F42F2E4C6889D053A4F18F102D=1
-VariantManagerObjectVer:24BB7AF356464F831F2F2DC249AD96FF=5
 NiagaraVer:FCF57AFA50764283B9A9E658FFA02D32=78
 ChaosClothConfigVer:76A52329092345B598AED841CF2F6AD8=5
 ChaosClothSharedConfigVer:5FBC690755C840AE8E67F1845EFFF13F=1
+VariantManagerObjectVer:24BB7AF356464F831F2F2DC249AD96FF=5
 ClothConfigNvVer:9950B70EB41A4E17BBCCFA0D57817FD6=1
 Dev-ControlRig:A7820CFB20A743598C542C149623CF50=25
 Dev-IKRig:F6DFBB78BB50A0E44018B84D60CBAF23=2

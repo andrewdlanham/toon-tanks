@@ -1,0 +1,37 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "z:\\toon-tanks\\toon tanks\\source\\toontanks\\toontanksgamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "z:\\toon-tanks\\toon tanks\\intermediate\\build\\win64\\x64\\toontanks\\shipping\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "z:\\toon-tanks\\toon tanks\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\toontanks\\definitions.toontanks.h",
+            "z:\\toon-tanks\\toon tanks\\source\\toontanks\\toontanksgamemode.h",
+            "z:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "z:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "z:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "z:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "z:\\toon-tanks\\toon tanks\\intermediate\\build\\win64\\unrealgame\\inc\\toontanks\\uht\\toontanksgamemode.generated.h",
+            "z:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "z:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "z:\\ue_5.2\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "z:\\ue_5.2\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "z:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "z:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "z:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\dialoguetypes.generated.h",
+            "z:\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "z:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
+            "z:\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\gameplaystatics.generated.h",
+            "z:\\toon-tanks\\toon tanks\\source\\toontanks\\tank.h",
+            "z:\\toon-tanks\\toon tanks\\source\\toontanks\\basepawn.h",
+            "z:\\toon-tanks\\toon tanks\\intermediate\\build\\win64\\unrealgame\\inc\\toontanks\\uht\\basepawn.generated.h",
+            "z:\\toon-tanks\\toon tanks\\intermediate\\build\\win64\\unrealgame\\inc\\toontanks\\uht\\tank.generated.h",
+            "z:\\toon-tanks\\toon tanks\\source\\toontanks\\tower.h",
+            "z:\\toon-tanks\\toon tanks\\intermediate\\build\\win64\\unrealgame\\inc\\toontanks\\uht\\tower.generated.h",
+            "z:\\toon-tanks\\toon tanks\\source\\toontanks\\toontanksplayercontroller.h",
+            "z:\\toon-tanks\\toon tanks\\intermediate\\build\\win64\\unrealgame\\inc\\toontanks\\uht\\toontanksplayercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -17,6 +17,10 @@
 			"ChunkId": "7b9c08e592b6f57800000001"
 		},
 		{
+			"Path": "Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+			"ChunkId": "5516ce2c36f3d9ae00000001"
+		},
+		{
 			"Path": "Engine/Content/BasicShapes/Cone.uasset",
 			"ChunkId": "f23f619700918ac500000001"
 		},
@@ -1193,6 +1197,10 @@
 			"ChunkId": "5daf07f16bab52c400000001"
 		},
 		{
+			"Path": "ToonTanks/Content/Assets/Meshes/Cross.uasset",
+			"ChunkId": "e73711862caad66a00000001"
+		},
+		{
 			"Path": "ToonTanks/Content/Assets/Meshes/SM_Projectile.uasset",
 			"ChunkId": "1fc76f49d811cc8c00000001"
 		},
@@ -1664,6 +1672,12 @@
 			"Name": "/Engine/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane",
 			"ExportBundleChunkIds": [
 				"7b9c08e592b6f57800000001"
+			]
+		},
+		{
+			"Name": "/Engine/BasicShapes/BasicShapeMaterial",
+			"ExportBundleChunkIds": [
+				"5516ce2c36f3d9ae00000001"
 			]
 		},
 		{
@@ -2855,6 +2869,12 @@
 			"Name": "/Game/Assets/Materials/M_TextureBase",
 			"ExportBundleChunkIds": [
 				"5daf07f16bab52c400000001"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Meshes/Cross",
+			"ExportBundleChunkIds": [
+				"e73711862caad66a00000001"
 			]
 		},
 		{
