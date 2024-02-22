@@ -31,7 +31,7 @@ private:
 	class ATank* Tank;
 
 	UPROPERTY(EditAnywhere)
-	float FireRange = 700.f;
+	float FireRange = 1000.f;
 
 	float FireRate = 2.f;
 	FTimerHandle FireRateTimerHandle;
