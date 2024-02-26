@@ -20,6 +20,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "A072F575B5101B6594BE5C09E0C9954FA83A779E",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "D76802C1D4B7B22752EE4C82439F6D5D80AF4DC5",
 			"Assets": [
 				"/Engine/EngineMaterials/GizmoMaterial"
@@ -44,12 +50,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "A072F575B5101B6594BE5C09E0C9954FA83A779E",
-			"Assets": [
-				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "BEDE204043759A4417B1F721E963909F70983615",
 			"Assets": [
 				"/ControlRig/Controls/ControlRigXRayMaterial"
@@ -62,15 +62,21 @@
 			]
 		},
 		{
-			"ShaderMapHash": "0AB7A88037574B4907EDAB689BA83BFDA5266BBC",
-			"Assets": [
-				"/Engine/EngineMaterials/WorldGridMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "E7327DBFC398027DAAD38D31BAFFD46059A76713",
 			"Assets": [
 				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "17C136A2EB1C6E49250778B4F18A9F6C69D4CF63",
+			"Assets": [
+				"/Game/Assets/Materials/M_EmissiveBase"
+			]
+		},
+		{
+			"ShaderMapHash": "AF9DB9F2BD47C77AF2523EE79445C69E70ABC21E",
+			"Assets": [
+				"/Game/Assets/Materials/M_ParticleBase"
 			]
 		},
 		{
@@ -148,21 +154,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "3F28350DF4C7CBF6391AFCBBBB57E49A9A77A4A0",
+			"ShaderMapHash": "6A0CAD2B022475E23C83CF431974EE8DCA260F37",
 			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
 			]
 		},
 		{
-			"ShaderMapHash": "C78CF843AF455E0FE229E895E9FC527B0094011D",
+			"ShaderMapHash": "53F8BE6B5D1DEE59D4838C11D52EAE81703FEE60",
 			"Assets": [
-				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
-			]
-		},
-		{
-			"ShaderMapHash": "B6725FACA1A34F71543A99E7A3A2CE2B12F94220",
-			"Assets": [
-				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
 			]
 		},
 		{
@@ -190,21 +190,51 @@
 			]
 		},
 		{
+			"ShaderMapHash": "48639BE6AED8BCA95F5B1FE79D06C4B91E6D6D8D",
+			"Assets": [
+				"/Game/Assets/Textures/T_BasicGrid_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "0D61F9495971CC87A112630543891ED7A09867F4",
+			"Assets": [
+				"/Game/Assets/Materials/M_TextureBase"
+			]
+		},
+		{
+			"ShaderMapHash": "C78CF843AF455E0FE229E895E9FC527B0094011D",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "B6725FACA1A34F71543A99E7A3A2CE2B12F94220",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
 			"ShaderMapHash": "24C1B26EABBD83C10240BBA54D3691B73E858649",
 			"Assets": [
 				"/Paper2D/OpaqueUnlitSpriteMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "6A0CAD2B022475E23C83CF431974EE8DCA260F37",
+			"ShaderMapHash": "3F28350DF4C7CBF6391AFCBBBB57E49A9A77A4A0",
 			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
 			]
 		},
 		{
-			"ShaderMapHash": "53F8BE6B5D1DEE59D4838C11D52EAE81703FEE60",
+			"ShaderMapHash": "0AB7A88037574B4907EDAB689BA83BFDA5266BBC",
 			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A7F42D8F50E351DDF8C9B5BA1277B9BBE3527676",
+			"Assets": [
+				"/Game/Assets/Materials/Base/M_Grid_Inst"
 			]
 		},
 		{
@@ -217,30 +247,6 @@
 			"ShaderMapHash": "3CDE6831F91C0875CA6D2E28BA8B03A74DFCB69A",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
-			]
-		},
-		{
-			"ShaderMapHash": "17C136A2EB1C6E49250778B4F18A9F6C69D4CF63",
-			"Assets": [
-				"/Game/Assets/Materials/M_EmissiveBase"
-			]
-		},
-		{
-			"ShaderMapHash": "AF9DB9F2BD47C77AF2523EE79445C69E70ABC21E",
-			"Assets": [
-				"/Game/Assets/Materials/M_ParticleBase"
-			]
-		},
-		{
-			"ShaderMapHash": "A7F42D8F50E351DDF8C9B5BA1277B9BBE3527676",
-			"Assets": [
-				"/Game/Assets/Materials/Base/M_Grid_Inst"
-			]
-		},
-		{
-			"ShaderMapHash": "0D61F9495971CC87A112630543891ED7A09867F4",
-			"Assets": [
-				"/Game/Assets/Materials/M_TextureBase"
 			]
 		},
 		{

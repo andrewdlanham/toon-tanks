@@ -909,6 +909,14 @@
 			"ChunkId": "4b9f1cb311f8bb5d00000002"
 		},
 		{
+			"Path": "ToonTanks/Content/Assets/Audio/Modern_Futuristic_City.uasset",
+			"ChunkId": "c052cc7c1c50532900000001"
+		},
+		{
+			"Path": "ToonTanks/Content/Assets/Audio/Modern_Futuristic_City.ubulk",
+			"ChunkId": "c052cc7c1c50532900000002"
+		},
+		{
 			"Path": "ToonTanks/Content/Assets/Audio/Thud_Audio.uasset",
 			"ChunkId": "d57f741e41f415aa00000001"
 		},
@@ -1019,6 +1027,10 @@
 		{
 			"Path": "ToonTanks/Content/Assets/Textures/T_BasicGrid_M.ubulk",
 			"ChunkId": "6af2cd0505daf96e00000002"
+		},
+		{
+			"Path": "ToonTanks/Content/Assets/Textures/T_BasicGrid_Mat.uasset",
+			"ChunkId": "bbaaa94cb768965900000001"
 		},
 		{
 			"Path": "ToonTanks/Content/Assets/Textures/T_BasicGrid_N.uasset",
@@ -2251,6 +2263,15 @@
 			]
 		},
 		{
+			"Name": "/Game/Assets/Audio/Modern_Futuristic_City",
+			"ExportBundleChunkIds": [
+				"c052cc7c1c50532900000001"
+			],
+			"BulkDataChunkIds": [
+				"c052cc7c1c50532900000002"
+			]
+		},
+		{
 			"Name": "/Game/Assets/Audio/Thud_Audio",
 			"ExportBundleChunkIds": [
 				"d57f741e41f415aa00000001"
@@ -2410,6 +2431,12 @@
 			],
 			"BulkDataChunkIds": [
 				"6af2cd0505daf96e00000002"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Textures/T_BasicGrid_Mat",
+			"ExportBundleChunkIds": [
+				"bbaaa94cb768965900000001"
 			]
 		},
 		{
