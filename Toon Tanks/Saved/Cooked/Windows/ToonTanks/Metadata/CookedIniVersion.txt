@@ -8,6 +8,7 @@ Windows.Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engin
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Game/GameMode/BP_ToonTanksGameMode.BP_ToonTanksGameMode_C
 Windows.Engine:Core.System:CanUseUnversionedPropertySerialization:0=True
 Windows.Input:/Script/Engine.InputSettings:DefaultTouchInterface:0=/Engine/MobileResources/HUD/DefaultVirtualJoysticks.DefaultVirtualJoysticks
+Editor:/Script/UnrealEd.UnrealEdOptions:bExpandClassPickerClassList:0=False
 Editor:Internationalization:LocalizationPaths:0=../../../Engine/Content/Localization/Editor
 Editor:Internationalization:LocalizationPaths:1=../../../Engine/Content/Localization/EditorTutorials
 Editor:Internationalization:LocalizationPaths:2=../../../Engine/Content/Localization/Keywords
@@ -49,7 +50,6 @@ Editor:BlueprintEditor.Favorites:StarterProfile:15=(FieldName="/Script/Engine.Ki
 Editor:BlueprintEditor.Favorites:StarterProfile:16=(FieldName="/Script/Engine.KismetMathLibraryLessEqual_TimespanTimespan",NodeName="/Script/BlueprintGraph.K2Node_PromotableOperator")
 Editor:BlueprintEditor.Favorites:StarterProfile:17=(FieldName="/Script/GameplayTags.BlueprintGameplayTagLibraryNotEqual_GameplayTagContainer",NodeName="/Script/BlueprintGraph.K2Node_PromotableOperator")
 Editor:BlueprintEditor.Favorites:StarterProfile:18=(FieldName="/Script/TimeManagement.TimeManagementBlueprintLibraryMultiply_SecondsFrameRate",NodeName="/Script/BlueprintGraph.K2Node_PromotableOperator")
-Editor:/Script/UnrealEd.UnrealEdOptions:bExpandClassPickerClassList:0=False
 Editor:UserDefinedStructure:bUseUserDefinedStructure:0=true
 Editor:CustomBlueprintFunctionLibrary:bCanCreateNew:0=true
 Editor:StructSerialization:SkipByteCodeSerialization:0=true
@@ -124,6 +124,7 @@ Niagara:/Script/NiagaraEditor.NiagaraEditorSettings:bShowGridInViewport:0=True
 Niagara:/Script/NiagaraEditor.NiagaraEditorSettings:bShowInstructionsCount:0=False
 Niagara:/Script/NiagaraEditor.NiagaraEditorSettings:bShowParticleCountsInViewport:0=False
 Niagara:/Script/NiagaraEditor.NiagaraEditorSettings:bShowEmitterExecutionOrder:0=False
+ObjectMixerSerializedData:/Script/ObjectMixerEditor.ObjectMixerEditorSerializedData:SerializedDataPerFilter:0=()
 Engine:Core.System:CanStripEditorOnlyExportsAndImports:0=True
 Engine:Core.System:CanSkipEditorReferencedPackagesWhenCooking:0=False
 Engine:Core.System:TestUnversionedPropertySerializationWhenCooking:0=False
@@ -679,7 +680,7 @@ Engine:/Script/AndroidFileServerEditor.AndroidFileServerRuntimeSettings:bReportS
 Engine:/Script/AndroidFileServerEditor.AndroidFileServerRuntimeSettings:ConnectionType:0=USBOnly
 Engine:/Script/AndroidFileServerEditor.AndroidFileServerRuntimeSettings:bUseManualIPAddress:0=False
 Engine:/Script/AndroidFileServerEditor.AndroidFileServerRuntimeSettings:ManualIPAddress:0=
-Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:StagingDirectory:0=(Path="Z/UE5 Project Builds/Toon Tanks")
+Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:StagingDirectory:0=(Path="Z/unreal-project-builds/Toon Tanks")
 Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformBuildConfig:0=(("Windows", PPBC_Shipping))
 Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:LaunchOnTarget:0=
 Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformTargetFlavorName:0=(("Android", "Android_ASTC"))
@@ -1467,10 +1468,10 @@ OverlappingVerticeDetectionVer:612FBE52DA53400B910D4F919FB1857C=1
 VisualLogger:A4237A36CAEA41C98FA218F858681BF3=5
 VirtualTextureBuiltDataVersion:804E3F7570884B49A4D68C063C7EB6DC=5
 WorldSettingVer:1ED048F42F2E4C6889D053A4F18F102D=1
-NiagaraVer:FCF57AFA50764283B9A9E658FFA02D32=78
 VariantManagerObjectVer:24BB7AF356464F831F2F2DC249AD96FF=5
 ChaosClothConfigVer:76A52329092345B598AED841CF2F6AD8=5
 ChaosClothSharedConfigVer:5FBC690755C840AE8E67F1845EFFF13F=1
+NiagaraVer:FCF57AFA50764283B9A9E658FFA02D32=78
 ClothConfigNvVer:9950B70EB41A4E17BBCCFA0D57817FD6=1
 Dev-ControlRig:A7820CFB20A743598C542C149623CF50=25
 Dev-IKRig:F6DFBB78BB50A0E44018B84D60CBAF23=2

@@ -1073,6 +1073,10 @@
 			"ChunkId": "d157b6f7ac68578400000001"
 		},
 		{
+			"Path": "ToonTanks/Content/Blueprints/Widgets/WBP_PauseMenu.uasset",
+			"ChunkId": "2bbc4f6ebf6cb58700000001"
+		},
+		{
 			"Path": "ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset",
 			"ChunkId": "e28554ff78f9d00f00000001"
 		},
@@ -2491,6 +2495,12 @@
 			"Name": "/Game/Blueprints/Widgets/WBP_EndGameWidget",
 			"ExportBundleChunkIds": [
 				"d157b6f7ac68578400000001"
+			]
+		},
+		{
+			"Name": "/Game/Blueprints/Widgets/WBP_PauseMenu",
+			"ExportBundleChunkIds": [
+				"2bbc4f6ebf6cb58700000001"
 			]
 		},
 		{

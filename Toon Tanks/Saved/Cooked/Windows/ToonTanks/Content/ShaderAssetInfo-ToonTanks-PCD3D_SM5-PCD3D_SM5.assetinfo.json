@@ -20,12 +20,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "A072F575B5101B6594BE5C09E0C9954FA83A779E",
-			"Assets": [
-				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "D76802C1D4B7B22752EE4C82439F6D5D80AF4DC5",
 			"Assets": [
 				"/Engine/EngineMaterials/GizmoMaterial"
@@ -59,6 +53,12 @@
 			"ShaderMapHash": "6F5D7A35238D5A57901D6BA2481BD3D4199B04F9",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "A072F575B5101B6594BE5C09E0C9954FA83A779E",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
 			]
 		},
 		{
@@ -154,15 +154,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "6A0CAD2B022475E23C83CF431974EE8DCA260F37",
+			"ShaderMapHash": "0AB7A88037574B4907EDAB689BA83BFDA5266BBC",
 			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
-			]
-		},
-		{
-			"ShaderMapHash": "53F8BE6B5D1DEE59D4838C11D52EAE81703FEE60",
-			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+				"/Engine/EngineMaterials/WorldGridMaterial"
 			]
 		},
 		{
@@ -220,21 +214,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "6A0CAD2B022475E23C83CF431974EE8DCA260F37",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "53F8BE6B5D1DEE59D4838C11D52EAE81703FEE60",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
 			"ShaderMapHash": "3F28350DF4C7CBF6391AFCBBBB57E49A9A77A4A0",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
-			]
-		},
-		{
-			"ShaderMapHash": "0AB7A88037574B4907EDAB689BA83BFDA5266BBC",
-			"Assets": [
-				"/Engine/EngineMaterials/WorldGridMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "A7F42D8F50E351DDF8C9B5BA1277B9BBE3527676",
-			"Assets": [
-				"/Game/Assets/Materials/Base/M_Grid_Inst"
 			]
 		},
 		{
@@ -253,6 +247,12 @@
 			"ShaderMapHash": "9084C836A6FEC3F469608466DF98ECA862BB5AF5",
 			"Assets": [
 				"/Game/Assets/Materials/Base/M_GridBase"
+			]
+		},
+		{
+			"ShaderMapHash": "A7F42D8F50E351DDF8C9B5BA1277B9BBE3527676",
+			"Assets": [
+				"/Game/Assets/Materials/Base/M_Grid_Inst"
 			]
 		}
 	]
