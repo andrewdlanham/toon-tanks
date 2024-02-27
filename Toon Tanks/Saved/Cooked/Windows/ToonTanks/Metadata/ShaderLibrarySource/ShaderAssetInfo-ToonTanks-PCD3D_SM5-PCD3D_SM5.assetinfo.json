@@ -62,9 +62,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "E7327DBFC398027DAAD38D31BAFFD46059A76713",
+			"ShaderMapHash": "912737B039761A955163A7379166164F9B218665",
 			"Assets": [
-				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+				"/Paper2D/DefaultSpriteMaterial"
 			]
 		},
 		{
@@ -99,9 +99,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "912737B039761A955163A7379166164F9B218665",
+			"ShaderMapHash": "E7327DBFC398027DAAD38D31BAFFD46059A76713",
 			"Assets": [
-				"/Paper2D/DefaultSpriteMaterial"
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
 			]
 		},
 		{
@@ -160,6 +160,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "24C1B26EABBD83C10240BBA54D3691B73E858649",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "E7543FE4C0B73622CB14A3695D7965E99F35103F",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
@@ -208,12 +214,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "24C1B26EABBD83C10240BBA54D3691B73E858649",
-			"Assets": [
-				"/Paper2D/OpaqueUnlitSpriteMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "6A0CAD2B022475E23C83CF431974EE8DCA260F37",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
@@ -232,15 +232,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "E17E4719C1D09F569ACB1BEADABE989DB8DC837C",
-			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
-			]
-		},
-		{
 			"ShaderMapHash": "3CDE6831F91C0875CA6D2E28BA8B03A74DFCB69A",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "E17E4719C1D09F569ACB1BEADABE989DB8DC837C",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
 			]
 		},
 		{
